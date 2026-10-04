@@ -1,0 +1,9 @@
+Il sito usa i dati reali di ServUO tramite la funzione Netlify shard-status.
+ServUO invia un aggiornamento ogni 30 secondi; il banner controlla ogni 15 secondi.
+Senza aggiornamenti per 90 secondi il server viene indicato offline.
+Sono contati i personaggi giocanti collegati, esclusi gli account staff.
+La wiki è inclusa nella sottocartella wiki.
+
+Per aggiornare questo sito completo usare work/deploy-shard-site.ps1 dalla cartella del progetto Codex.
+Il semplice trascinamento di soli file HTML su Netlify può eliminare la funzione: usare lo script di pubblicazione.
+La chiave privata è nella configurazione del server e in Netlify: non includerla nei file pubblici.
