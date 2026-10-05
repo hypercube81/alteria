@@ -1,6 +1,6 @@
 {
   "SchemaVersion": 1,
-  "Version": "2026.10.5.18",
+  "Version": "2026.10.5.19",
   "Title": "Alteria",
   "Files": [
     {
@@ -4877,11 +4877,11 @@
     },
     {
       "Path": "Launcher.exe",
-      "Size": 51705881,
-      "Sha256": "645DDF9070838D8835AFF2E0A4A304A331B453A05E80DFEE5AB6ED42704C6F84",
-      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.5.18/645DDF9070838D8835AFF2E0A4A304A331B453A05E80DFEE5AB6ED42704C6F84.gz",
-      "DownloadSize": 46056526,
-      "DownloadSha256": "9903DC954473DB22FE26301271768075748E87301E40702303A81B54BFF912BE"
+      "Size": 51705921,
+      "Sha256": "C0DC7049878D27FE252EEB562155406623B49CD40CE1082C44F0AF67C6A4E3FC",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.5.19/C0DC7049878D27FE252EEB562155406623B49CD40CE1082C44F0AF67C6A4E3FC.gz",
+      "DownloadSize": 46056495,
+      "DownloadSha256": "57B58D375CDDC89A9043EC58A7AE8BE0506CF50F6D9B63A30415DCDBDAA9A411"
     },
     {
       "Path": "launcher-background.png",
@@ -4894,10 +4894,10 @@
     {
       "Path": "client-version.txt",
       "Size": 12,
-      "Sha256": "73E823B589F5ADB31968F0CBB3BFE7FE2C6B77D9276012C89E7AB47AC30F19CE",
-      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.5.18/73E823B589F5ADB31968F0CBB3BFE7FE2C6B77D9276012C89E7AB47AC30F19CE.gz",
+      "Sha256": "A03D78EFF519BBC435050F4AA601ED56D3B13C7FFC40B0B816E73B4CB58818DA",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.5.19/A03D78EFF519BBC435050F4AA601ED56D3B13C7FFC40B0B816E73B4CB58818DA.gz",
       "DownloadSize": 32,
-      "DownloadSha256": "E5164AB7F5E1B63A8F412D1D9942AD2F02A6BA3EA23687B0D57E5289A8D09EDC"
+      "DownloadSha256": "6241E1AA22F1C6A984C17202DF52F1F72A6D9BE9B669B92927480E2C6790FE74"
     },
     {
       "Path": "Data/Alteria/login-music.mp3",
