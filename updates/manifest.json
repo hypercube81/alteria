@@ -1,6 +1,6 @@
 {
   "SchemaVersion": 1,
-  "Version": "2026.10.6.25",
+  "Version": "2026.10.6.26",
   "Title": "Alteria",
   "Files": [
     {
@@ -4878,10 +4878,10 @@
     {
       "Path": "Launcher.exe",
       "Size": 116185224,
-      "Sha256": "8B584E0E72E51E8D8089BF71BEBD390D6044F21344AEC6F787A0AF778D72764F",
-      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.6.21/8B584E0E72E51E8D8089BF71BEBD390D6044F21344AEC6F787A0AF778D72764F.gz",
-      "DownloadSize": 45921210,
-      "DownloadSha256": "C741AD1A39F17195BC67C2668F93FB87EFD7F2CB783922A639D2B823EBAB2BA1"
+      "Sha256": "EC3737A12BFDC3589A8EBB50D371C1856AEA6F437366F1E4D8C24C9FF282482B",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.6.21/EC3737A12BFDC3589A8EBB50D371C1856AEA6F437366F1E4D8C24C9FF282482B.gz",
+      "DownloadSize": 45921338,
+      "DownloadSha256": "7B61C706C096A0D532C9BD8AE0189291AAA3860118779D64B1A2E9E691210ADA"
     },
     {
       "Path": "launcher-background.png",
