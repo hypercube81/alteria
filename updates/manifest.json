@@ -1,6 +1,6 @@
 {
   "SchemaVersion": 1,
-  "Version": "2026.10.9.33",
+  "Version": "2026.10.10.1",
   "Title": "Althea",
   "Files": [
     {
@@ -4886,10 +4886,10 @@
     {
       "Path": "client-version.txt",
       "Size": 12,
-      "Sha256": "BE954474D47BF59E6944C8BB09782EB995393A66D51BFFA54FBF1FC227373A5C",
-      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.33/BE954474D47BF59E6944C8BB09782EB995393A66D51BFFA54FBF1FC227373A5C.gz",
-      "DownloadSize": 32,
-      "DownloadSha256": "DCB7B6A48944E5CBE2AD136CCEDC28C6240D65E8D3FACCB0F2CB74A78BE2382F"
+      "Sha256": "CEAFD9FE3E6DEFC9B7861507B0327131FF13ED8B14F913F26957908C8D5F497A",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.10.1/CEAFD9FE3E6DEFC9B7861507B0327131FF13ED8B14F913F26957908C8D5F497A.gz",
+      "DownloadSize": 28,
+      "DownloadSha256": "9145968AD85DAEEA8B4F3111A9D147E42CD2F20EA2FF73ACE3598E0E918F04D4"
     },
     {
       "Path": "Data/Alteria/login-music.mp3",
@@ -5989,11 +5989,11 @@
     },
     {
       "Path": "Data/Gumps/65034.gump",
-      "Size": 22340,
-      "Sha256": "DEC4EBC4B847AEB2940AEBDF3990F006FD09F30E7F493D3896676261F3F1AC30",
-      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.33/DEC4EBC4B847AEB2940AEBDF3990F006FD09F30E7F493D3896676261F3F1AC30.gz",
-      "DownloadSize": 10680,
-      "DownloadSha256": "A8E88338CBBCBBECEF6DD6F6DB8D340E9D0C4B8FCD24A84C8484AE7BE4A8603F"
+      "Size": 23324,
+      "Sha256": "AB6BE5EDC71B921245FBDE80F53993B346310B2BEC9FAFBC41960FE4C81FC16F",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.10.1/AB6BE5EDC71B921245FBDE80F53993B346310B2BEC9FAFBC41960FE4C81FC16F.gz",
+      "DownloadSize": 11057,
+      "DownloadSha256": "1E93FDC176EBBAE935077FFBAA51EA7E744CC2C47F6863CE659012ECB5559A3A"
     },
     {
       "Path": "Data/Gumps/65033.gump",
