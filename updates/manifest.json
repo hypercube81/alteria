@@ -1,7 +1,7 @@
 {
   "SchemaVersion": 1,
-  "Version": "2026.10.6.26",
-  "Title": "Alteria",
+  "Version": "2026.10.9.27",
+  "Title": "Althea",
   "Files": [
     {
       "Path": "Data/Alteria/lighting.xml",
@@ -93,11 +93,11 @@
     },
     {
       "Path": "Data/Login/background.png",
-      "Size": 2354261,
-      "Sha256": "605541A898F04B9F352CA2B970FE4A29FADD10F9F31972D42F819462CFE963D2",
-      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.5.10/605541A898F04B9F352CA2B970FE4A29FADD10F9F31972D42F819462CFE963D2.gz",
-      "DownloadSize": 2342247,
-      "DownloadSha256": "4EC4F2E31C882E43C46CF9A68CCCA87B3174EF830421CE3658E6E0B0AEC63AC7"
+      "Size": 2886129,
+      "Sha256": "D78F0ADD305D78FD3F7BADB3B27E601D426B9580A434B86EC938621EECB204B2",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-116.gz",
+      "DownloadSize": 2855149,
+      "DownloadSha256": "2F58F19C9B5320E7F0173D4CF00768CDDE6E31142101538F2CCA1352675A740B"
     },
     {
       "Path": "Data/Login/button-font.xnb",
@@ -718,10 +718,10 @@
     {
       "Path": "GameData/animdata.mul",
       "Size": 4486748,
-      "Sha256": "D0FA1B27D3988307656EB53D8796FC8BE5826724CF2E269F322F25396A3AB128",
-      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.5.10/D0FA1B27D3988307656EB53D8796FC8BE5826724CF2E269F322F25396A3AB128.gz",
-      "DownloadSize": 11154,
-      "DownloadSha256": "9D023B03B596F1BD20F3855C07DA6E27C9B7B44168E67C8BE443CD9A80C43EFA"
+      "Sha256": "239B636A7BAC1A7D46BFA803FB9498229A3B3888DF29B3E79C6A41C5AD6D8F0A",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-015.gz",
+      "DownloadSize": 10433,
+      "DownloadSha256": "AC9CC87AEEF533DBCA3063CBF35444C58B67EE08F950C416151956522505BEB5"
     },
     {
       "Path": "GameData/animinfo.mul",
@@ -1630,10 +1630,10 @@
     {
       "Path": "GameData/hues.mul",
       "Size": 265500,
-      "Sha256": "91E323700D66FDE5DDE05AFBE106D1377A2632C2A59F2F66CCD75D6805DB5D52",
-      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.5.10/91E323700D66FDE5DDE05AFBE106D1377A2632C2A59F2F66CCD75D6805DB5D52.gz",
-      "DownloadSize": 97032,
-      "DownloadSha256": "AD5E8D2F2B3B6CF7C65766997F83D3F149935103DE2CEBB0E506A8055168EF62"
+      "Sha256": "5A4A7001EB7200E0DFA080897BABF64DC17B8EC2196034709317FA6C2AD79C2A",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-050.gz",
+      "DownloadSize": 96340,
+      "DownloadSha256": "79F086E13F3B86C48997E142883AC28BD2DB4A325B6C5FD4C45ED13C650C6F6D"
     },
     {
       "Path": "GameData/ignore.lst",
@@ -2022,18 +2022,18 @@
     {
       "Path": "GameData/map1LegacyMUL.uop",
       "Size": 89965542,
-      "Sha256": "0B91AAFFD22FCA48C1A3C85B6AB3C00F8C9AA3011ECDF1A9EC4F5CCD7DBAA864",
-      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.5.10/0B91AAFFD22FCA48C1A3C85B6AB3C00F8C9AA3011ECDF1A9EC4F5CCD7DBAA864.gz",
-      "DownloadSize": 17115024,
-      "DownloadSha256": "9E9A888BD60F8A3C5617EC54366BB83B18912C1DFAE8C56E649A3469EA502612"
+      "Sha256": "0600D857D332F5E86D38E13D0AD95B6638DDC30E77E79A34B714B9F003E8C08B",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-002.gz",
+      "DownloadSize": 16737009,
+      "DownloadSha256": "2D8498C10F4E96A62C6EAD9A6F727B4EFD03847BC337B4FF2FDD8CD2CB861922"
     },
     {
       "Path": "GameData/map1xLegacyMUL.uop",
       "Size": 89965542,
-      "Sha256": "94D98DEB5DE5A9BE1EBA6C008BC7038FC7F799AD3518CC607D010F78983731FF",
-      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.5.10/94D98DEB5DE5A9BE1EBA6C008BC7038FC7F799AD3518CC607D010F78983731FF.gz",
-      "DownloadSize": 17121969,
-      "DownloadSha256": "A727E382A5AB1982D67401E6F3B3E7B7DCCFCD221C49FC0BFC619BBC3F46CE39"
+      "Sha256": "E1D7ADC702AC821742A0CFDAF5B03F636E3959B077AEC2DEA523BE60941F8BDE",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-123.gz",
+      "DownloadSize": 16747654,
+      "DownloadSha256": "D4618C5F19E2F80BC3043136A0587C8DDDC7C943897B2C4B316D732C3F21A6AC"
     },
     {
       "Path": "GameData/map2LegacyMUL.uop",
@@ -2694,18 +2694,18 @@
     {
       "Path": "GameData/staidx1.mul",
       "Size": 5505024,
-      "Sha256": "3B344BD0C489CC70FA2E2E1AAEB5489DD0A772769AFB278C904833BC451A1571",
-      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.5.10/3B344BD0C489CC70FA2E2E1AAEB5489DD0A772769AFB278C904833BC451A1571.gz",
-      "DownloadSize": 543620,
-      "DownloadSha256": "F1D19DC357B33A155858BA0428AAF607B714EE07B27E7B035C67A4616463B7A7"
+      "Sha256": "7B7F87AC5D488AE2FC73341B5B455036B43A7E4527E0EFD397C7CCE9365030D7",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-064.gz",
+      "DownloadSize": 545982,
+      "DownloadSha256": "5B5DC0D8702E0D201967943E286320D65622840F8B43558F496060C3A4F3A8D6"
     },
     {
       "Path": "GameData/staidx1x.mul",
       "Size": 5505024,
-      "Sha256": "36443B0FDDFE002895A05B89C20961B6C96F78F03A6D6DE892A1F9B52C15C0A4",
-      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.5.10/36443B0FDDFE002895A05B89C20961B6C96F78F03A6D6DE892A1F9B52C15C0A4.gz",
-      "DownloadSize": 541562,
-      "DownloadSha256": "A6C78A3D8E14AEBED2E0EF4F8DB441AD6831A7FE8BA7314782D8E4C349270D0B"
+      "Sha256": "C6B582684F6CD92481C15FEDD7435B3738CE5F09F53F17629A7D5F8BF39B6DE2",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-108.gz",
+      "DownloadSize": 543875,
+      "DownloadSha256": "C0AADD912D423CE178B7C0C55F96B0CA3487C434B51F8B47330422510128725B"
     },
     {
       "Path": "GameData/staidx2.mul",
@@ -2781,19 +2781,19 @@
     },
     {
       "Path": "GameData/statics1.mul",
-      "Size": 20603023,
-      "Sha256": "91A71EF4663A2D682BA47BF0703A3B4A2E3B88061F652595057E3298AD71965B",
-      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.5.10/91A71EF4663A2D682BA47BF0703A3B4A2E3B88061F652595057E3298AD71965B.gz",
-      "DownloadSize": 6553898,
-      "DownloadSha256": "09184E9441339E1909999CA09753F97CF4F262F93F6E6243CC45266A2F58CA8A"
+      "Size": 20971727,
+      "Sha256": "FB658EAB51C2C77A3C33A6925B15BFCE5CE1C24BD00EE2C5FAF9325D13596AC9",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-139.gz",
+      "DownloadSize": 6649529,
+      "DownloadSha256": "74AF1740FE513E315428996D557B48FD42609511F9767B77DA13211B61A3F476"
     },
     {
       "Path": "GameData/statics1x.mul",
-      "Size": 20490050,
-      "Sha256": "954F691D884319723F9DA9461119DBEF629652B94E92C1E12C94145A0924ED90",
-      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.5.10/954F691D884319723F9DA9461119DBEF629652B94E92C1E12C94145A0924ED90.gz",
-      "DownloadSize": 6537136,
-      "DownloadSha256": "EC576DE156F8799C09E7BCCC070910F8A6F5D9230D5EB94F8C5969B58097B5CC"
+      "Size": 20858754,
+      "Sha256": "C2F9308A4FBDD3CA4470BBA38211397BA288AE349E38C9FC24AFBB3E61CB7C84",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-105.gz",
+      "DownloadSize": 6632690,
+      "DownloadSha256": "0C8633D769E51EC0D534DF3AAE0A59D5684EB6B445BEE6AD693E6BC2C911E9B1"
     },
     {
       "Path": "GameData/statics2.mul",
@@ -2926,10 +2926,10 @@
     {
       "Path": "GameData/tiledata.mul",
       "Size": 3188736,
-      "Sha256": "44F48A4598DBE6E29A157EE11433E18202772719D344A3FDF1D2D624C48AF35C",
-      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.5.10/44F48A4598DBE6E29A157EE11433E18202772719D344A3FDF1D2D624C48AF35C.gz",
-      "DownloadSize": 108299,
-      "DownloadSha256": "A3A0896B9A3D29CC564D2930927CDA3A91C4868086806F02C0BA6BA72EBE5A32"
+      "Sha256": "1C5EFB509299AB0FE50D260BD3EC13F2767CE5712E5C60DC18C1B89C5B6F2539",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-013.gz",
+      "DownloadSize": 103753,
+      "DownloadSha256": "0E54E2D30E6B48905303C4BFA00E09753E6F24C157D92BAB28C85E16B38B62FD"
     },
     {
       "Path": "GameData/Tilehelp.cht",
@@ -4710,10 +4710,10 @@
     {
       "Path": "TerrainOverride/map1.mul",
       "Size": 89915392,
-      "Sha256": "8D56806AA2EF6D33C46080E6AB4DBF85F50233BB38516428F7E7CCC395311436",
-      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.5.10/8D56806AA2EF6D33C46080E6AB4DBF85F50233BB38516428F7E7CCC395311436.gz",
-      "DownloadSize": 17072843,
-      "DownloadSha256": "2E14F3633B6568D9687817F6DB0056573656672136762DB546B4FF1119932287"
+      "Sha256": "D274C310D0BB9CC1304127F833397BCB64FB668A4F90B239094B09A6179ACC9B",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-113.gz",
+      "DownloadSize": 16688050,
+      "DownloadSha256": "80576894658F35665066FDB5AE1DD707B2722E4DE366E11D283CCA03967EAE64"
     },
     {
       "Path": "FAudio.dll",
@@ -4869,35 +4869,35 @@
     },
     {
       "Path": "cuo.exe",
-      "Size": 40299328,
-      "Sha256": "B10622E0C380C5679D71E30B352A775B38E8759AB2E47DDF272782DFFBDDEC70",
-      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.6.21/B10622E0C380C5679D71E30B352A775B38E8759AB2E47DDF272782DFFBDDEC70.gz",
-      "DownloadSize": 34877172,
-      "DownloadSha256": "D34730A43CDB09786D8CF4A50AADC7381C14FDEB42B44298648B8B4A3C1B4FCC"
+      "Size": 16136704,
+      "Sha256": "4412814AC7342402802D50AB5EED87F5E277AFFFB44AB93E94F30629EAD1449E",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-036.gz",
+      "DownloadSize": 6758530,
+      "DownloadSha256": "32040FFC5EB17C42207928314593F804D206E335F714995075FC027728BDFA13"
     },
     {
       "Path": "Launcher.exe",
-      "Size": 116185224,
-      "Sha256": "EC3737A12BFDC3589A8EBB50D371C1856AEA6F437366F1E4D8C24C9FF282482B",
-      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.6.21/EC3737A12BFDC3589A8EBB50D371C1856AEA6F437366F1E4D8C24C9FF282482B.gz",
-      "DownloadSize": 45921338,
-      "DownloadSha256": "7B61C706C096A0D532C9BD8AE0189291AAA3860118779D64B1A2E9E691210ADA"
+      "Size": 51709224,
+      "Sha256": "F41B39D25DC022AFE709F4B71A81AD2D12A826118E7D64146C279C0A0330BB15",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-132.gz",
+      "DownloadSize": 46058677,
+      "DownloadSha256": "964F2E8793E5EED77316B38DB638BDD08812B083752AF9B736CE543A360F7C94"
     },
     {
       "Path": "launcher-background.png",
-      "Size": 2354261,
-      "Sha256": "605541A898F04B9F352CA2B970FE4A29FADD10F9F31972D42F819462CFE963D2",
-      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.5.10/605541A898F04B9F352CA2B970FE4A29FADD10F9F31972D42F819462CFE963D2.gz",
-      "DownloadSize": 2342247,
-      "DownloadSha256": "4EC4F2E31C882E43C46CF9A68CCCA87B3174EF830421CE3658E6E0B0AEC63AC7"
+      "Size": 2886129,
+      "Sha256": "D78F0ADD305D78FD3F7BADB3B27E601D426B9580A434B86EC938621EECB204B2",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-116.gz",
+      "DownloadSize": 2855149,
+      "DownloadSha256": "2F58F19C9B5320E7F0173D4CF00768CDDE6E31142101538F2CCA1352675A740B"
     },
     {
       "Path": "client-version.txt",
       "Size": 12,
-      "Sha256": "87B28C46525BED44A69505AF19329BAC564AF360F55D57581274AAB1686C13CA",
-      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.6.21/87B28C46525BED44A69505AF19329BAC564AF360F55D57581274AAB1686C13CA.gz",
+      "Sha256": "3D18856F9BD26DE8E624D50F973272B912C37E3B9EC61FA17197ECE86C1B80FE",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-034.gz",
       "DownloadSize": 32,
-      "DownloadSha256": "2A1B779E0DAA49CE923BAF9167F4E87BF837CA718C0E695D941410E9CCE8733C"
+      "DownloadSha256": "297731C0B2148C63651CC0DBCBBFB80B98CFB7AE4444E10E8D2B464D53189EC9"
     },
     {
       "Path": "Data/Alteria/login-music.mp3",
@@ -4906,6 +4906,1078 @@
       "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.5.14/96289B981FBE2958B22C92BBFBA9882BCDEE8DE6F6D084994CC3E7D6AA686C9B.gz",
       "DownloadSize": 3682809,
       "DownloadSha256": "6EA1DDDFE916E2DC896B811A04E44374B45D1C798D80A36426518564B08127FC"
+    },
+    {
+      "Path": "Data/Fonts/readable-hues.mul",
+      "Size": 265564,
+      "Sha256": "A5947AFD36F902BB3F09A596B799ED6AB5358CEEB2522C10101741FC0007A97E",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-088.gz",
+      "DownloadSize": 96377,
+      "DownloadSha256": "DC6EA9DE09B3FF5010F0DE02D74633854C8EC9D806949683BAD474F218F0FE4F"
+    },
+    {
+      "Path": "Data/Fonts/zhi-ui-fonts.mul",
+      "Size": 879024,
+      "Sha256": "5732C5466CAC3BFE5AC576D923C0F6441BC0CD4642B5A81873F0FAD58DD57E54",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-048.gz",
+      "DownloadSize": 41597,
+      "DownloadSha256": "F5B3584A5B91234D6A9EF154BBC0C4C460453895BEA5A31E883DE5594EA07A31"
+    },
+    {
+      "Path": "Data/Fonts/zhi-unifont1.mul",
+      "Size": 1433134,
+      "Sha256": "B518C416ABEB372D5C4831810004728CA2722E3683EBAB98665A6AA0ADA51149",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-097.gz",
+      "DownloadSize": 599965,
+      "DownloadSha256": "690897175B665E6124C2977358E602D8ABA8A46454B86849730491200E82EA66"
+    },
+    {
+      "Path": "Data/Gumps/2000.gump",
+      "Size": 165964,
+      "Sha256": "A36154E96A734D2AF2B0E50D756192A7061BE2E373C214759CB290341E4D915C",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-084.gz",
+      "DownloadSize": 66032,
+      "DownloadSha256": "C61E67C8E67EC592DD0B3F6C1F9C544DFF73751BE00633792F7BEDC3C290072B"
+    },
+    {
+      "Path": "Data/Gumps/2001.gump",
+      "Size": 161980,
+      "Sha256": "2F1ACD0D2E825156EC4D9567124CBC725C77186F7FBECE39023432B0E347878A",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-024.gz",
+      "DownloadSize": 59502,
+      "DownloadSha256": "182F3B5BEA385195B1FEBF919B12625F1FBAF0095CEC69CAFC776A429821E6DE"
+    },
+    {
+      "Path": "Data/Gumps/2002.gump",
+      "Size": 2480,
+      "Sha256": "4BA3C02328A096467AEC2385A50E1A9256EC0CA6B5697847B3C912622CF38533",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-041.gz",
+      "DownloadSize": 898,
+      "DownloadSha256": "C7861367EA9E63F8A79534D9193FBD8C9CA04024C95747C5B42A06E2134F87EF"
+    },
+    {
+      "Path": "Data/Gumps/2006.gump",
+      "Size": 4212,
+      "Sha256": "1A2F10316E21439F49F570455D42C87AE064AD40162EA020DB6A983A1D022031",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-011.gz",
+      "DownloadSize": 1738,
+      "DownloadSha256": "ED2F7B59036C7224AC5A6613F6DFF75A217F331951CFC97008EF2B5E431EB84B"
+    },
+    {
+      "Path": "Data/Gumps/2007.gump",
+      "Size": 4148,
+      "Sha256": "A2FF0CC0DA55305DEB007129730419D609706BDFF872F0906BA5DEC64831E9A7",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-083.gz",
+      "DownloadSize": 1715,
+      "DownloadSha256": "99DBFFDE6DECD128296030A415D38CE238E2C081F84636F2C521582196153182"
+    },
+    {
+      "Path": "Data/Gumps/2008.gump",
+      "Size": 4224,
+      "Sha256": "9A25A27FB4B720E5F577147196E1041C7F8A2F9DE27356B0BEBF0DA36E9BCFB9",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-078.gz",
+      "DownloadSize": 1737,
+      "DownloadSha256": "64677573E9C4EA84DF981DCD987CB630BE8286254EC9C1B77978518975CDA9B9"
+    },
+    {
+      "Path": "Data/Gumps/2009.gump",
+      "Size": 4092,
+      "Sha256": "45D1685C74F22DF01038FE2AA53DFAD68C142D3EF17A5044EF091BAD6507DA2E",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-037.gz",
+      "DownloadSize": 1675,
+      "DownloadSha256": "EE44989A8698C480A02237497303FA115C2650C85077E90A3F9A655682B7F70A"
+    },
+    {
+      "Path": "Data/Gumps/2010.gump",
+      "Size": 4028,
+      "Sha256": "C1FE004F72404BFC7ADB21A4C8B198DD333BD2AF260620F995CAC2B32BCEC2E6",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-104.gz",
+      "DownloadSize": 1651,
+      "DownloadSha256": "3A69A5974460601D9F0E9F3EE07984A3C4B03E3EEDBFA8DBB9E207A4C8B04829"
+    },
+    {
+      "Path": "Data/Gumps/2011.gump",
+      "Size": 4104,
+      "Sha256": "89B170EEEC8998BD0C96AB7E6EB4BFCC63B558920A7AAC7BB23436CC8071F325",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-071.gz",
+      "DownloadSize": 1675,
+      "DownloadSha256": "997E8DE5B804601033175E734A015F4AEAEF113A9262CE7A41359225359E4E3A"
+    },
+    {
+      "Path": "Data/Gumps/2012.gump",
+      "Size": 4216,
+      "Sha256": "81439C2E382A3E876AF60E672757A0C3C303AC6C513E80F1CF6B927C0E2890AF",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-067.gz",
+      "DownloadSize": 1725,
+      "DownloadSha256": "1143793D5E01D44DF4EAE4FF0170660CED7FC4A85620655209D1AA19D435DDEE"
+    },
+    {
+      "Path": "Data/Gumps/2013.gump",
+      "Size": 4152,
+      "Sha256": "38A8DC6E064302A2BD6E6DAAD452058A31B376314140025F7FA4721595434A78",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-032.gz",
+      "DownloadSize": 1695,
+      "DownloadSha256": "0B6290D737EA4DB7BA1106FD47E16CE341689C3CECD8BE36DD054CEB2B2B9E01"
+    },
+    {
+      "Path": "Data/Gumps/2014.gump",
+      "Size": 4228,
+      "Sha256": "F1720D62A52C47471B46BF1F502E0A64982ABA6ADDAA10E23B445C2C4F3E46B1",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-130.gz",
+      "DownloadSize": 1721,
+      "DownloadSha256": "F66060FEA81281DA219F096CA15658CACA44C8DC4C832BC07046512861414A6C"
+    },
+    {
+      "Path": "Data/Gumps/2015.gump",
+      "Size": 4160,
+      "Sha256": "9AE8E39FED35A69BF84DD9A31DC92C7A038C88CFDB0EEAC6E775C0B545C13A33",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-079.gz",
+      "DownloadSize": 1722,
+      "DownloadSha256": "562B2025FA23D4980A3EF8FD19CA219BD95079740A5A60880124A7BBFE45FC7A"
+    },
+    {
+      "Path": "Data/Gumps/2016.gump",
+      "Size": 4096,
+      "Sha256": "DBE21DC80D4C2E273AAE6F7DB66D9B5CB110C1261A313F58E617E8526372C3D7",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-120.gz",
+      "DownloadSize": 1701,
+      "DownloadSha256": "EA573CE99E6FBE0FA2B7DBC33B5EBF54CCB2233320AE31989A24E2A63F9E6378"
+    },
+    {
+      "Path": "Data/Gumps/2017.gump",
+      "Size": 4172,
+      "Sha256": "56A3D1FE31B0C6775ECE4B00D5A6FB3BE0206FAF1AC1C1C7FBB21947B8A264DC",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-047.gz",
+      "DownloadSize": 1725,
+      "DownloadSha256": "9872F560CA8647BBF4D91FAC37E085724FCC888A5C74AEC332DC3B9BCBB8906A"
+    },
+    {
+      "Path": "Data/Gumps/2018.gump",
+      "Size": 176,
+      "Sha256": "C6760E2CD43DFCEDDDD9C99E07D8F2138E2AF2C031D64EC52F53ADA36FA45151",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-107.gz",
+      "DownloadSize": 68,
+      "DownloadSha256": "61D3AF1824BDE89AAD97FBEDBE93A11BDC677B7DB2981F47CB04AE505FFAA25D"
+    },
+    {
+      "Path": "Data/Gumps/2019.gump",
+      "Size": 176,
+      "Sha256": "C6760E2CD43DFCEDDDD9C99E07D8F2138E2AF2C031D64EC52F53ADA36FA45151",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-107.gz",
+      "DownloadSize": 68,
+      "DownloadSha256": "61D3AF1824BDE89AAD97FBEDBE93A11BDC677B7DB2981F47CB04AE505FFAA25D"
+    },
+    {
+      "Path": "Data/Gumps/2020.gump",
+      "Size": 176,
+      "Sha256": "C6760E2CD43DFCEDDDD9C99E07D8F2138E2AF2C031D64EC52F53ADA36FA45151",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-107.gz",
+      "DownloadSize": 68,
+      "DownloadSha256": "61D3AF1824BDE89AAD97FBEDBE93A11BDC677B7DB2981F47CB04AE505FFAA25D"
+    },
+    {
+      "Path": "Data/Gumps/2021.gump",
+      "Size": 3960,
+      "Sha256": "3195D1805EA7EE0EB109ACC646D7C9043F7DCA9A8BC550FE7C6D02055CDD1FAB",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-027.gz",
+      "DownloadSize": 1658,
+      "DownloadSha256": "F5E9DD21D70B8BB0220996C84E241EB696CF229B62439341FE6378821DCC4B8C"
+    },
+    {
+      "Path": "Data/Gumps/2022.gump",
+      "Size": 3896,
+      "Sha256": "22B3B7801A9B09AEAAEA5605D18ED0A128974F08ED021C3B48CA2F30AE313BA7",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-014.gz",
+      "DownloadSize": 1633,
+      "DownloadSha256": "1F2FFE3D6DD1EB4046CF10E9DF3DCA16F7E44764106C2DD659823C09CAD57EBE"
+    },
+    {
+      "Path": "Data/Gumps/2023.gump",
+      "Size": 3972,
+      "Sha256": "97FD68AB59551D5BCE87ECF710C3004DFD5E3BAE81F927E44C0D71F19C36C659",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-077.gz",
+      "DownloadSize": 1658,
+      "DownloadSha256": "8BC59B0C3287EEE57DD959DE19DADDDEBF87CCDE2ED4BEFE550275D06639AC7F"
+    },
+    {
+      "Path": "Data/Gumps/2024.gump",
+      "Size": 3936,
+      "Sha256": "ABD3208F45E4030429349EDB02AFF676F2DE6A47EE932E27D5779FC08072E175",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-092.gz",
+      "DownloadSize": 1509,
+      "DownloadSha256": "C1EE872C373DF7E335684E451A4724A3DB4E1955115BBE60EF9CC3287EBF6B63"
+    },
+    {
+      "Path": "Data/Gumps/2025.gump",
+      "Size": 3872,
+      "Sha256": "C768924062578462B788DF4FA657668E2C90A0391A543658C09544DADD0B4083",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-110.gz",
+      "DownloadSize": 1516,
+      "DownloadSha256": "721288E3B86D2463094EA96879342D26DDCA3267B90CDDDEF38E88638DAC7F4C"
+    },
+    {
+      "Path": "Data/Gumps/2026.gump",
+      "Size": 3948,
+      "Sha256": "05EB0DD236155C0EAFE89CC0CF33A6EFEE3CF0C4CDF78640EF1A3B809559BDCE",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-001.gz",
+      "DownloadSize": 1536,
+      "DownloadSha256": "AB9749DD818A00996B79A94D1DEA73D7C837035EDC25D1621773702B2DC9187D"
+    },
+    {
+      "Path": "Data/Gumps/2027.gump",
+      "Size": 4132,
+      "Sha256": "BCC4F77AB69BD38BB42BA8B5B9E9E34ECB4D1F795C7205019A1F6733F1175339",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-098.gz",
+      "DownloadSize": 1688,
+      "DownloadSha256": "BDF3E1B817543708257B8E27C5708148D12F16F323A0E6E0DE09CBE3E665DD2B"
+    },
+    {
+      "Path": "Data/Gumps/2028.gump",
+      "Size": 4068,
+      "Sha256": "2D9347F3FB196CEB9025520D84BC4CE5D5B3A218DA8DEB52A01A51306E7FFBD1",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-021.gz",
+      "DownloadSize": 1663,
+      "DownloadSha256": "8F864BA7FAEF5A3233B46AF97812F21416BB49636CF84F46E44BD6DA6A780688"
+    },
+    {
+      "Path": "Data/Gumps/2029.gump",
+      "Size": 4144,
+      "Sha256": "E7B5A83E781BD4494ADAE7BAA4F651EC6F21AA0F6928ED2974A7AE5069888F78",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-126.gz",
+      "DownloadSize": 1689,
+      "DownloadSha256": "91E6A9A5915F64234513E90F5ECAAFA654F0A040AC4321E1B90B42D74EA1E22F"
+    },
+    {
+      "Path": "Data/Gumps/2030.gump",
+      "Size": 4324,
+      "Sha256": "5A4F9DFE696C31E901220DD6C6538CE8E10104954BF24506D6BC37F4EE835F36",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-051.gz",
+      "DownloadSize": 1678,
+      "DownloadSha256": "CD08678BADC85918EB767DEA2E19C9BA444CDBF798B6168233AF2721F98F0B93"
+    },
+    {
+      "Path": "Data/Gumps/2031.gump",
+      "Size": 3924,
+      "Sha256": "8B26F7FF976769709E0F4CC2D249A6D6789D3F163A17BF2D03C23B843DA3983D",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-072.gz",
+      "DownloadSize": 1628,
+      "DownloadSha256": "3DA78F67CDA0A768917BED2A0F1C1CBFC5A01F02C81418C57F8E779834FB3B46"
+    },
+    {
+      "Path": "Data/Gumps/2032.gump",
+      "Size": 3860,
+      "Sha256": "C6C725DBFDF8BF3CC2E25FF6F0332EEC9B102109A9EEE14D0D6C5E48E686E901",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-109.gz",
+      "DownloadSize": 1605,
+      "DownloadSha256": "8E7C7549245C8D399154D89D25213D3ED8F3A24FE73ACA27115A7573E11FC429"
+    },
+    {
+      "Path": "Data/Gumps/2033.gump",
+      "Size": 3936,
+      "Sha256": "8FCFB8B3D2267C19B377B93DAB5FA6B2A8F68AC576B9FF0D4365028BE011908D",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-075.gz",
+      "DownloadSize": 1626,
+      "DownloadSha256": "6D1A3235619C698965FF61FCE41E2F54A0CF15A81AE0A23D3148A22DC0277E80"
+    },
+    {
+      "Path": "Data/Gumps/2080.gump",
+      "Size": 29128,
+      "Sha256": "6DF19A72916A694A56E01EE9F7C398FA02EC6D4BD779F9B0EB540BBE1C487A6A",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-060.gz",
+      "DownloadSize": 11747,
+      "DownloadSha256": "041D82B421B8D3038811029CF32F7B9FB196F703F4FC3EEAFCBE619FB3C2C935"
+    },
+    {
+      "Path": "Data/Gumps/2081.gump",
+      "Size": 71148,
+      "Sha256": "897A11412A5A1459076B2B69AC67E52C581198431EE45EE648B390957AD19B7E",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-070.gz",
+      "DownloadSize": 15359,
+      "DownloadSha256": "50139321FE1963A94F6807E54E130BF862D2632DBBDF3FEA15A47FC0B9922B43"
+    },
+    {
+      "Path": "Data/Gumps/2082.gump",
+      "Size": 71148,
+      "Sha256": "897A11412A5A1459076B2B69AC67E52C581198431EE45EE648B390957AD19B7E",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-070.gz",
+      "DownloadSize": 15359,
+      "DownloadSha256": "50139321FE1963A94F6807E54E130BF862D2632DBBDF3FEA15A47FC0B9922B43"
+    },
+    {
+      "Path": "Data/Gumps/2083.gump",
+      "Size": 28884,
+      "Sha256": "B36C3B18EFFC3C71C2F3ADCC5845B1C9C3275D2AB1430DC1F30816050F16A3A6",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-096.gz",
+      "DownloadSize": 9858,
+      "DownloadSha256": "1AD810C8994D2271689F4C50F3E84ED6640698439317BADF7F9D67D8B5E54763"
+    },
+    {
+      "Path": "Data/Gumps/2084.gump",
+      "Size": 368,
+      "Sha256": "3411592E57E793DBAF63877B8FA45D76A37A6AA97AF267E87083C90972085C88",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-028.gz",
+      "DownloadSize": 186,
+      "DownloadSha256": "85F8D566AF67CCF642D6EE7AB3DDF3DB77C15613D726F37B511CC7A294E502A0"
+    },
+    {
+      "Path": "Data/Gumps/2085.gump",
+      "Size": 412,
+      "Sha256": "A0265918F60559ADAE01D5AD8109823936773E0BEC7F1B6B35A170C0D23249E3",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-082.gz",
+      "DownloadSize": 195,
+      "DownloadSha256": "5CB1912762E30DF75F625A28FFB5EDB36F55F01DE0D0A1A31CE97AC965EF261D"
+    },
+    {
+      "Path": "Data/Gumps/2086.gump",
+      "Size": 412,
+      "Sha256": "A0265918F60559ADAE01D5AD8109823936773E0BEC7F1B6B35A170C0D23249E3",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-082.gz",
+      "DownloadSize": 195,
+      "DownloadSha256": "5CB1912762E30DF75F625A28FFB5EDB36F55F01DE0D0A1A31CE97AC965EF261D"
+    },
+    {
+      "Path": "Data/Gumps/2087.gump",
+      "Size": 568,
+      "Sha256": "3ADADD2E1BE56524A5E5455A5448F3959373C1B48C858B78AF097137C10A4893",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-033.gz",
+      "DownloadSize": 190,
+      "DownloadSha256": "3454211DFC24530B5CBEBFF3BC561D197B3FC41A248510973C50E8321D714456"
+    },
+    {
+      "Path": "Data/Gumps/2088.gump",
+      "Size": 3408,
+      "Sha256": "0A929DCF7F73BE3A17A53848634A2E2BB3CE84EDD43EC7164F07F6F71FE2B957",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-004.gz",
+      "DownloadSize": 1380,
+      "DownloadSha256": "FFAA9949FED7D780F6758930A66FB28CCA245C3612DF0387C50BDA757FD9178B"
+    },
+    {
+      "Path": "Data/Gumps/2091.gump",
+      "Size": 7552,
+      "Sha256": "524D53682B80D1F10EEE1A272DE9C7C2F9F5E03BA3ED474A69FD1D187B06B3C9",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-045.gz",
+      "DownloadSize": 2221,
+      "DownloadSha256": "2A2655A13735A7786D8246D666190D3FE5A44B4CD2E152B77465BF9CB11F0F0F"
+    },
+    {
+      "Path": "Data/Gumps/2092.gump",
+      "Size": 672,
+      "Sha256": "2EB4544E0EFA03F9FB79A57B8D01F963A450C3F849E93B34F142F5CD0C2FCACE",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-022.gz",
+      "DownloadSize": 402,
+      "DownloadSha256": "B7F9B2441F81EF28F700F1EF65E0D16EC516965BA372C173FA5126C212897C10"
+    },
+    {
+      "Path": "Data/Gumps/2093.gump",
+      "Size": 1748,
+      "Sha256": "F60C5C2FCBF85F10C4A96C83B9C96EB1DF4D390BCA4AD3C015574AEDBD72A908",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-136.gz",
+      "DownloadSize": 905,
+      "DownloadSha256": "12F7B79107B2621DCB28177150041DB92ED2EA461ED0FB4915385937BE423C44"
+    },
+    {
+      "Path": "Data/Gumps/2094.gump",
+      "Size": 1852,
+      "Sha256": "9558E272E2B123E5D52BE23E2A0CF7707D04DBBD9F2CD6F3C91FFA6EE3DE5D29",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-076.gz",
+      "DownloadSize": 901,
+      "DownloadSha256": "01CADD0EC1837C30C11B7C5D680FBA12F7929B991ED35F6BB3694FC61D3A1E57"
+    },
+    {
+      "Path": "Data/Gumps/2095.gump",
+      "Size": 1796,
+      "Sha256": "1B146BAA3DEEF4448B34BD802BA4ED67208DA8C8DBEA0A0B9A2A56C990DBC3AB",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-012.gz",
+      "DownloadSize": 907,
+      "DownloadSha256": "F26A6130EB54CD52F07C5BE73C663AC25B12B1431E368D41D8980B3F07A807AB"
+    },
+    {
+      "Path": "Data/Gumps/2096.gump",
+      "Size": 3876,
+      "Sha256": "AFA2C52D3DDD09A91A123D638D328CFF13E824B717D6C2EEFF7B9755128FC3B4",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-094.gz",
+      "DownloadSize": 1836,
+      "DownloadSha256": "8801C0A7E81F0E8330A25207AD4B657B8B64DA21C3FE8087F4C6379952E0FEDC"
+    },
+    {
+      "Path": "Data/Gumps/2101.gump",
+      "Size": 208,
+      "Sha256": "CC677DA9D77D87CD6C455178BC5ACB31790B2F4E3A666BDCC22448A83A815A3B",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-111.gz",
+      "DownloadSize": 168,
+      "DownloadSha256": "73FEC2ABBAAF3A5482AE4E9DA070B2F156070363DDFA65D5FCF7B43EF9213547"
+    },
+    {
+      "Path": "Data/Gumps/2102.gump",
+      "Size": 8276,
+      "Sha256": "6B0C41CF284A882291AC12D07727EB08D0F8C30AB6B7FFC72F9B423B0C15FF4E",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-059.gz",
+      "DownloadSize": 2780,
+      "DownloadSha256": "3BF41CDD2D72AAA7B8BC9B2055F06A49DDBF2902E5B4F071425CB97250D6FB9C"
+    },
+    {
+      "Path": "Data/Gumps/2103.gump",
+      "Size": 484,
+      "Sha256": "88C2F5FFE8B705E80886A4745EB3DEB7D91821115C245A6B097F338E52EC67F1",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-069.gz",
+      "DownloadSize": 354,
+      "DownloadSha256": "684BD1E9BF9A275889ECF983F608A1514F4D6E428CB6D86E35AC3D625029629E"
+    },
+    {
+      "Path": "Data/Gumps/2104.gump",
+      "Size": 480,
+      "Sha256": "FB74BE3664C8D4506626C6B6CC1519C08A37CEE098C5A5B0D46D011D329C7B7B",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-140.gz",
+      "DownloadSize": 349,
+      "DownloadSha256": "C42FD3174ABD606539A2FA2E7374768D42B675E76E07FA0F4F8BE5E228818849"
+    },
+    {
+      "Path": "Data/Gumps/2105.gump",
+      "Size": 3792,
+      "Sha256": "0E91E762EFD07223B3E5D83BF3574CD01AF135C02E7BC727F377CBE56AB2750A",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-006.gz",
+      "DownloadSize": 1748,
+      "DownloadSha256": "60FAFF9DB596ED747473FF340D04B3D8FB882AE2BADBD61C75E63B016708E94E"
+    },
+    {
+      "Path": "Data/Gumps/2106.gump",
+      "Size": 1844,
+      "Sha256": "4FDE25F20126725C33CE9FA3C1990312C8CBDCF250E0E4E93DF32F94FD1CE185",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-043.gz",
+      "DownloadSize": 735,
+      "DownloadSha256": "C93F9C5B7F4FB149D1076A1100F09DDE75084E4080053D67CDC3C41EF1E500E4"
+    },
+    {
+      "Path": "Data/Gumps/2443.gump",
+      "Size": 4640,
+      "Sha256": "C39CB8F42AE16124B2F7492CD27F092D3B4FD3D7FD0805050315286A489EFDFD",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-106.gz",
+      "DownloadSize": 2149,
+      "DownloadSha256": "ADAE1D7607CBBEC90AAA1D5DC2B106F6DB065C1E94646098F46907D2D79A3410"
+    },
+    {
+      "Path": "Data/Gumps/2445.gump",
+      "Size": 8244,
+      "Sha256": "A5287F5FA43CA5A314198BBD4CE92D6FE4441139A529532619231F5AFAF68D1C",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-087.gz",
+      "DownloadSize": 3556,
+      "DownloadSha256": "9BCE5BB097CC29B9CD2693E206C6BE7478BF5926CDEFFDD581ECEE47FEC1BA85"
+    },
+    {
+      "Path": "Data/Gumps/2700.gump",
+      "Size": 9408,
+      "Sha256": "7D609E5B67955E08200C91503D78843DF2A57555F91CC74E4020ED2125D3F3BE",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-066.gz",
+      "DownloadSize": 1982,
+      "DownloadSha256": "5AFDE604E6634C8B47CCFA4C84D24B27FC65D7C22FBA362728D4AD3E0891CFD8"
+    },
+    {
+      "Path": "Data/Gumps/2701.gump",
+      "Size": 8836,
+      "Sha256": "D2D3EB6716B041A0936527F180F5FB55B806B909ED51D55E0BC0E05252456780",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-114.gz",
+      "DownloadSize": 1969,
+      "DownloadSha256": "3D04CB8C10FB42E40451C0CC17727D5F7EB016E46659C2953427B5A6E8D1083B"
+    },
+    {
+      "Path": "Data/Gumps/5010.gump",
+      "Size": 25604,
+      "Sha256": "346A6331E84DC49D0F266A678F485CB5F31A8CD4AADCAA38B830EDC6BC7B0C0F",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-029.gz",
+      "DownloadSize": 11222,
+      "DownloadSha256": "75498570A376AACF5351DF5E350E161A25206F55F212F5E8E1CAA2F2C586352F"
+    },
+    {
+      "Path": "Data/Gumps/5011.gump",
+      "Size": 42460,
+      "Sha256": "8590EF6C6CEC662E9560B68A04FAE8E46DEE0F0E8AAECBBFDCC219AA1681240E",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-068.gz",
+      "DownloadSize": 15450,
+      "DownloadSha256": "68FCF1F35E6EDD76514B066B8F89B012A8EE668B52555EBCB8CBE64B79263487"
+    },
+    {
+      "Path": "Data/Gumps/5054.gump",
+      "Size": 484,
+      "Sha256": "F639E31129D5608AF8FAF313BEEBD0FBCEF2648FE48CEA0448CE82DFCD961D17",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-137.gz",
+      "DownloadSize": 246,
+      "DownloadSha256": "363736088DC2A7329832FF834B24A4583AD87F6A7095D835CE0CEE5B4149EA7C"
+    },
+    {
+      "Path": "Data/Gumps/5055.gump",
+      "Size": 12856,
+      "Sha256": "25EF3FA1278055397348E7E26CF8D2163C18C14316172A52BBEC62270D1BD9A5",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-016.gz",
+      "DownloadSize": 1852,
+      "DownloadSha256": "11035802A14463879AD1D1B4160CE1C199632C00A9F12818FFF6511242C243F0"
+    },
+    {
+      "Path": "Data/Gumps/5056.gump",
+      "Size": 504,
+      "Sha256": "B235D1D5E491329ACE5309B29E6DA0BDD39620693C512E64E0556C638704BEEC",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-095.gz",
+      "DownloadSize": 243,
+      "DownloadSha256": "4D2F5B84384CADC2505233EC4743DE5D7FCC85EC365B9DFB0859EA3EEAFA3717"
+    },
+    {
+      "Path": "Data/Gumps/5057.gump",
+      "Size": 12444,
+      "Sha256": "7525B717A9AAAEEF0D5B3222B62B03DBBB2474B78C95F7CEC8F58A5C6BD212FF",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-061.gz",
+      "DownloadSize": 2725,
+      "DownloadSha256": "109A424325C29F923D0E43464484E095A28862F68952B576DA35B43491F58B40"
+    },
+    {
+      "Path": "Data/Gumps/5058.gump",
+      "Size": 41224,
+      "Sha256": "4A220B5871308C1D239641BFA2DEB4B012BD729937938FF1AE979CEE2072883F",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-040.gz",
+      "DownloadSize": 7456,
+      "DownloadSha256": "AB289B2EFCDB6B8BBF38546F1FFF4104956BB050BAC037F7F7FBB955EFD75926"
+    },
+    {
+      "Path": "Data/Gumps/5059.gump",
+      "Size": 12592,
+      "Sha256": "2A0BE9796436C26CDCC946D81002E8FC91C69D8B3ABC2428A517B6EF2933490B",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-019.gz",
+      "DownloadSize": 2702,
+      "DownloadSha256": "DA3853EB5A1874F74189E78EB76C7AAEA8BDB67FF93F8B661ABAF37028A8E870"
+    },
+    {
+      "Path": "Data/Gumps/5060.gump",
+      "Size": 472,
+      "Sha256": "117E7AB92934FAAE779C9E9000FD298358DE5886A5CCF52261EA1867BCAECEC8",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-008.gz",
+      "DownloadSize": 234,
+      "DownloadSha256": "C1D6F2AB6ED869C4E49DF849EAC59BC2641771B6D22C88672CAF488F17DB261B"
+    },
+    {
+      "Path": "Data/Gumps/5061.gump",
+      "Size": 12468,
+      "Sha256": "9AF92D3F21C1287AB61B653FC205D0ACA3D4E5CFF6648BDEBA4077229DFB6772",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-080.gz",
+      "DownloadSize": 1873,
+      "DownloadSha256": "CE302B50AF9D620E5B403677FDADEFA80EAB91FC92F86918EAA6249F62FB062C"
+    },
+    {
+      "Path": "Data/Gumps/5062.gump",
+      "Size": 460,
+      "Sha256": "F56BEA4B5B0A3291E50CFEB7F88C286C8AAAEB49AC09071FF3A50B7D719740F1",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-133.gz",
+      "DownloadSize": 243,
+      "DownloadSha256": "3602DCE6F9BCCF25FDDDA38D65AC195FD7B511927665AE3ABB6C36768753ECB8"
+    },
+    {
+      "Path": "Data/Gumps/5537.gump",
+      "Size": 1168,
+      "Sha256": "10ADF6138C7CA91D8AAE3937272C8996AD603C37C5D1494CEB37E25AA6BACB72",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-007.gz",
+      "DownloadSize": 405,
+      "DownloadSha256": "BEE414A278A471D0E78D036962D647717EF05B2355214E03CDD0D25A0051B980"
+    },
+    {
+      "Path": "Data/Gumps/5540.gump",
+      "Size": 1084,
+      "Sha256": "8BE9F469E1766356273EEB01FD129D2EF3A72068F03E1043B8AACEA8E442991A",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-073.gz",
+      "DownloadSize": 459,
+      "DownloadSha256": "B5FB873F0F17BA90BD9B0794A1F3348F6CC925C2DC11378A10D024816BEF0A15"
+    },
+    {
+      "Path": "Data/Gumps/60.gump",
+      "Size": 83344,
+      "Sha256": "D1213898196631B5032B17C89CDCDAAADA9FCE54A45C186E7FCC2BE37F6108D1",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-112.gz",
+      "DownloadSize": 28049,
+      "DownloadSha256": "6903BEF56D1DB8EE96FA9D82B3E168FD7795EFADF2F105EAAF8E6FEB6A9CD799"
+    },
+    {
+      "Path": "Data/Gumps/61.gump",
+      "Size": 62148,
+      "Sha256": "6A3F99D6842621A7D4970F39A631B6066AF3C244CA29CA09F47BBE949BBACEA4",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-058.gz",
+      "DownloadSize": 20798,
+      "DownloadSha256": "E00C1E8361822C0EEAC34AD15763722088AFF8546E7ED6026C3ABE6D4A1DE56A"
+    },
+    {
+      "Path": "Data/Gumps/65001.gump",
+      "Size": 131828,
+      "Sha256": "5D42FC85C9D0A2CABD23779074484B6E2098C66D311A0AE5CF3DED05BD68384E",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-054.gz",
+      "DownloadSize": 46302,
+      "DownloadSha256": "A880219D9D39BF9CEA9FA2DAF7C0E3A65518F584655B5E711F87FC63305E2668"
+    },
+    {
+      "Path": "Data/Gumps/65020.gump",
+      "Size": 16,
+      "Sha256": "DE9BCFB3C577685180546ED363893EA98F163F347262775918FC7A07948775F0",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-121.gz",
+      "DownloadSize": 28,
+      "DownloadSha256": "D6321243231554549D144EA752F57DCE2DA7D08EA50401B9170B80A77491B23A"
+    },
+    {
+      "Path": "Data/Gumps/65030.gump",
+      "Size": 1596,
+      "Sha256": "F2662FFB0647B11333963727FF33652F9F9F023C652EE8308DF648AB56DAE976",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-131.gz",
+      "DownloadSize": 717,
+      "DownloadSha256": "22E0FB709F65D6D95BE8CB8B89153812D28DAF90AB8C9B6B9C20CF59633418EA"
+    },
+    {
+      "Path": "Data/Gumps/65031.gump",
+      "Size": 1536,
+      "Sha256": "F5EFF3C357FCDB843DBD9179B752664B40C377ECBC370C63F7E25341A36C6BC4",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-135.gz",
+      "DownloadSize": 756,
+      "DownloadSha256": "2A365943AF5DFCF7C4F5BA55DC29E33D624868F68A05F9280BE5DAA731D4DA45"
+    },
+    {
+      "Path": "Data/Gumps/65032.gump",
+      "Size": 1600,
+      "Sha256": "BFEBCAA2A79F1CBCBF142B4618BEE4435ED688B64574D0239791A7E8929E0A30",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-101.gz",
+      "DownloadSize": 736,
+      "DownloadSha256": "B8F46EC69FF9991C336C6B7D8545AA27D7DB4E2EA0A077E8096C10A5269DDF5A"
+    },
+    {
+      "Path": "Data/Gumps/8000.gump",
+      "Size": 30932,
+      "Sha256": "DA615CF4CFD0F2BD71EE311540C9A3977CC66A62831E1A1D6A148A09D4CFFEE0",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-118.gz",
+      "DownloadSize": 10593,
+      "DownloadSha256": "EDEFCEAA39B165FBC1D5AA1E9E6D808A8086C006245A49796AA6560B57EAB9AB"
+    },
+    {
+      "Path": "Data/Gumps/8001.gump",
+      "Size": 51616,
+      "Sha256": "E9923ECFD38A72898713D0001FBC6634517AA78380CD4ECC5EA7430459430F0F",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-127.gz",
+      "DownloadSize": 12161,
+      "DownloadSha256": "F6C5594E3DBBE50BA842D964E3C7682DEF7B0B7A2C706808B6429B7CB240DF06"
+    },
+    {
+      "Path": "Data/Gumps/8002.gump",
+      "Size": 51616,
+      "Sha256": "A9F89DC2F896BA6C6415D459AC1ECE66D75F3BB043AE117FFA68A819A45F25C9",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-090.gz",
+      "DownloadSize": 12053,
+      "DownloadSha256": "5E8E801C9C9AE5A560879696852CC1BE6C58868C332419F4DBEBADB2837F46B1"
+    },
+    {
+      "Path": "Data/Gumps/8003.gump",
+      "Size": 27196,
+      "Sha256": "DB7E4B463BADD608DB10D8B7403F9CA8D35E5CB5C9FF3242828392380B2E7910",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-119.gz",
+      "DownloadSize": 9156,
+      "DownloadSha256": "75DC5EBB34D7B192396A9FABC79535FD8403D07A50CC9CC262F10F5B63FC7356"
+    },
+    {
+      "Path": "GameData/Art/Statics/10161.art",
+      "Size": 5306,
+      "Sha256": "5C752ACC28F29457B986F65B9A09DD4BD43E6C28209EC9A75FEF9B2535E184AF",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-053.gz",
+      "DownloadSize": 2893,
+      "DownloadSha256": "7114E3CE3995055A2D8B009EE692A7C10F93A1B950D7FF47416565257F903C84"
+    },
+    {
+      "Path": "GameData/Art/Statics/1062.art",
+      "Size": 2540,
+      "Sha256": "E7AE87BE8532247029EA2F385BD4422B9CE9ECA6C5A9F3B313066CD6B9F197B1",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-125.gz",
+      "DownloadSize": 1003,
+      "DownloadSha256": "B2719B05FFF11BA4E00BCF3E39C4D7B060B321551350F0DF07C8CBB246173C6E"
+    },
+    {
+      "Path": "GameData/Art/Statics/1063.art",
+      "Size": 2530,
+      "Sha256": "57EEAB9135DA17B7084BD8EB617D93FC919B8EF544776316CD41D20ED55E2986",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-049.gz",
+      "DownloadSize": 964,
+      "DownloadSha256": "06A5135B8ECC1A613210997B429B2D580028DF67E8925F9DDE8424876A1D60CE"
+    },
+    {
+      "Path": "GameData/Art/Statics/1068.art",
+      "Size": 2548,
+      "Sha256": "2EC590DBBFED57B1F715F5B739F09E221771C660E71C6B584949EAC8FFAD4856",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-023.gz",
+      "DownloadSize": 1001,
+      "DownloadSha256": "982B4F392FFA026B27DDE601C313D1D85CA7977DC9002BFD1CFC8F208E8D390D"
+    },
+    {
+      "Path": "GameData/Art/Statics/1069.art",
+      "Size": 2524,
+      "Sha256": "2D485A6B8BA7D119FF26F2EC8D9A8282F6DEE41A9B77505E5262E5ECA34DE8AD",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-020.gz",
+      "DownloadSize": 998,
+      "DownloadSha256": "7B90699B5D7B3950D5E195465A3C8ADAFD3B6215578A3FDC5B6CCAE655AFF33E"
+    },
+    {
+      "Path": "GameData/Art/Statics/1070.art",
+      "Size": 2548,
+      "Sha256": "17B4EEDABF3EC69CB52C023CE07C0A96B37E4320BB5314BE5FA8DEF7CE60FE8C",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-009.gz",
+      "DownloadSize": 1041,
+      "DownloadSha256": "BEBB0CD42C9D477CAAE48F97085F584E1196CDC965BC9909E7F01298236431E4"
+    },
+    {
+      "Path": "GameData/Art/Statics/1071.art",
+      "Size": 2524,
+      "Sha256": "A51F7881EA110B5BE5CF3B6F7F63BA5738429C8215565879B630BF4B819FB2A5",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-086.gz",
+      "DownloadSize": 1002,
+      "DownloadSha256": "054F03407BDF82C1FCD8E370327AE0DD3F29EFA363C64BB25A8714CE3CD5F313"
+    },
+    {
+      "Path": "GameData/Art/Statics/1153.art",
+      "Size": 1592,
+      "Sha256": "D2DC58E46DC8D1FB3A2188E7B2D72AE681FE4C98FBB81CF28829DA40C746CFCD",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-115.gz",
+      "DownloadSize": 1069,
+      "DownloadSha256": "B4F9E2A807841C5DCF6D3522BA06BAA99B3CD17AEB289BA1376D8AB102B8DD45"
+    },
+    {
+      "Path": "GameData/Art/Statics/2079.art",
+      "Size": 4690,
+      "Sha256": "0515E04BC0372773460DAE6CB58AFFEFD36208F96FDEAC778CA6A748350A8E36",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-000.gz",
+      "DownloadSize": 1065,
+      "DownloadSha256": "95B6834AC51C4CF6C13AC471A4632D07C86B07148FC8396361E427821D9B8751"
+    },
+    {
+      "Path": "GameData/Art/Statics/3674.art",
+      "Size": 2742,
+      "Sha256": "C04F0E2BA0B01B9103914471F6B446CF30F7776B28E06F2E9C15A30AA13C134A",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-102.gz",
+      "DownloadSize": 1297,
+      "DownloadSha256": "F44E1F402F69A5EAE7E99FDE02420B14E0B55F0535A419C15C4B472342F955DB"
+    },
+    {
+      "Path": "GameData/Art/Statics/4018.art",
+      "Size": 2816,
+      "Sha256": "314C66ABCE427F73B7BE20CE1B0A506FF811271AB70BB0809B9A87D4B486531E",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-026.gz",
+      "DownloadSize": 1729,
+      "DownloadSha256": "8AA119B40D58DEF018CDC05C4D384A0C0F4CE39611B8F0B9C05A2197A43B8977"
+    },
+    {
+      "Path": "GameData/Art/Statics/4999.art",
+      "Size": 5680,
+      "Sha256": "E9DC7E334B18C9AC2271CA7632D827F8A844F47951BAB98E3A00AE9AC6E1A3B1",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-128.gz",
+      "DownloadSize": 3245,
+      "DownloadSha256": "B12F54BDEE66CD66611621D7955C71874C44A0B93A859F926F4A42FCC5CB8E91"
+    },
+    {
+      "Path": "GameData/Art/Statics/5003.art",
+      "Size": 5624,
+      "Sha256": "31091F9A5007F480BFD27AD5503576302C5624285291C95D83807D378056751A",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-025.gz",
+      "DownloadSize": 2836,
+      "DownloadSha256": "8BBC1891D785875161E131A7227FBA87FD254E701C24AADACF49B76AA95A2617"
+    },
+    {
+      "Path": "GameData/Art/Statics/5004.art",
+      "Size": 5516,
+      "Sha256": "A3A607516F4DE0A242308E1F91EC14D28881AD4CB5FD5B2F008F9918D334AB4A",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-085.gz",
+      "DownloadSize": 2801,
+      "DownloadSha256": "70184BC27DCB1A276ABD78908C79B4CC2C7FE0EA270A92F5699075E1A1A236BB"
+    },
+    {
+      "Path": "GameData/Art/Statics/5007.art",
+      "Size": 5624,
+      "Sha256": "43FE6C9BDFFC6B2661618C68B22E7D5A480AB10722AC9EED5109F2474584F3DE",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-035.gz",
+      "DownloadSize": 2910,
+      "DownloadSha256": "DDCC15705C9C157B780CC8AAE2F440203C270652EF2F580FD53D52D8B1390998"
+    },
+    {
+      "Path": "GameData/Art/Statics/5008.art",
+      "Size": 5516,
+      "Sha256": "AA9D862638701FC80D9CC3F8DB83D56C674945D2BB84D38D47E6E92388C93409",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-091.gz",
+      "DownloadSize": 2871,
+      "DownloadSha256": "D7589091B04E20452E873AA0EE779048F0B24663DED70AB07B56AC1E18A7444A"
+    },
+    {
+      "Path": "GameData/Art/Statics/5416.art",
+      "Size": 1930,
+      "Sha256": "78A1C8B2C381F2F3EAB986DF50DB87D903BF108530D8EFD52288A239BB077841",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-062.gz",
+      "DownloadSize": 966,
+      "DownloadSha256": "55C575EEBF4850ADD86D61878B98EA9B757481AB8666B68CC9C624AB45974C74"
+    },
+    {
+      "Path": "GameData/Art/Statics/5417.art",
+      "Size": 1956,
+      "Sha256": "ACF662B3DE3A36C458D3C2FD7EABFDCCB15CCCD14484F22EF98AF53F1922435D",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-093.gz",
+      "DownloadSize": 954,
+      "DownloadSha256": "285C4C0EBFA7E8192522E974924B7BF43AF27214FBD5E7AB580A70BEA38C7179"
+    },
+    {
+      "Path": "GameData/Art/Statics/5418.art",
+      "Size": 1966,
+      "Sha256": "F5DDC5584A8875F7792DB7A4C073FFE142B932245FE9F7C179230111C78E3EEF",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-134.gz",
+      "DownloadSize": 995,
+      "DownloadSha256": "1020EA21C2918C3E7878AD84C297C4A0B5B2C83FFA692978AB2E7A442D195555"
+    },
+    {
+      "Path": "GameData/Art/Statics/5419.art",
+      "Size": 1930,
+      "Sha256": "8EA387C2844C13115A1AE3C886BC8991F35EC221CCF098E59D67FFFE42351800",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-074.gz",
+      "DownloadSize": 952,
+      "DownloadSha256": "7DAAEAA26C92885FCFA973A6021FD850A8508DD56AD1C87379CB5F9C48CE5350"
+    },
+    {
+      "Path": "GameData/Art/Statics/5420.art",
+      "Size": 1956,
+      "Sha256": "C08C863615D0E0D11EFCA5F974A158AD9FF581E12EF235166775B84391661D22",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-103.gz",
+      "DownloadSize": 933,
+      "DownloadSha256": "06CC71567D1669194B06B45B6199DB9EC6D86803CA7251635B325FCEFF18E0BD"
+    },
+    {
+      "Path": "GameData/Art/Statics/5421.art",
+      "Size": 1966,
+      "Sha256": "50C8F53C53AB0A22E570309811E610DE7BE08960C82E61DD64EC8F0FEDB06C40",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-044.gz",
+      "DownloadSize": 979,
+      "DownloadSha256": "7DFB0FEB7A7567B2B566E0514B8CB41DD4CA2A4016BBE38A99CFF91BF63D7159"
+    },
+    {
+      "Path": "GameData/Art/Statics/5486.art",
+      "Size": 2692,
+      "Sha256": "A7E4B58F9445E98D58295652E1541777CA945348C902F9BE1C444A478A2E5F32",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-089.gz",
+      "DownloadSize": 1107,
+      "DownloadSha256": "B6DC4D63D30690970050B6348F52D182846AA75262260A04633D9B114AE513CE"
+    },
+    {
+      "Path": "GameData/Art/Statics/5487.art",
+      "Size": 2692,
+      "Sha256": "4FD9E987EF028643CBC3BFFF45920BA62DC3B930723C57B3EE72A046CAA933ED",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-042.gz",
+      "DownloadSize": 1142,
+      "DownloadSha256": "2406ADB63735735CA05A1D4B480C187963A0472F2F7447108D119A3CDA1124F6"
+    },
+    {
+      "Path": "GameData/Art/Statics/5498.art",
+      "Size": 2546,
+      "Sha256": "BD4C02D89330B402123A58B3DC5F05A15D3951F65D63AB0EBAD59A68B007EBCD",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-099.gz",
+      "DownloadSize": 1310,
+      "DownloadSha256": "18DCA2BBF894DC7CECD0A3F005874635FE326B90E338BAE88CC66A09056AAF36"
+    },
+    {
+      "Path": "GameData/Art/Statics/5499.art",
+      "Size": 2546,
+      "Sha256": "463DE5939D64362CF8E5CBACA2B18D128DA5A5622B957D11859FD1A2727DDE2A",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-038.gz",
+      "DownloadSize": 1311,
+      "DownloadSha256": "6FD3D2A47657CE87742318DDD33E139AA05E025EC3A8914A41E81E9B07C24148"
+    },
+    {
+      "Path": "GameData/Art/Statics/5500.art",
+      "Size": 2546,
+      "Sha256": "BE3F95811991C08D6C63B845F68D156E3E144A67EB8BEE8A68DB92EFE356158F",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-100.gz",
+      "DownloadSize": 1444,
+      "DownloadSha256": "10CD1FE0034306BC0A4778D3E2FFFD15860B40EECEA1BA12E329EA72A38497BD"
+    },
+    {
+      "Path": "GameData/Art/Statics/5507.art",
+      "Size": 2304,
+      "Sha256": "279C95D3F9F5C55A0EAEE4C0FFFA4F22D63D62C5E6F05BFB907DB0F6FDD7D67E",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-017.gz",
+      "DownloadSize": 1067,
+      "DownloadSha256": "11930D10A3670DB815FD67CAAFDE88F5293D3B38F9C0D04CED8B96F444A80964"
+    },
+    {
+      "Path": "GameData/Art/Statics/5509.art",
+      "Size": 2210,
+      "Sha256": "7B003F38210134EF2986B27A195278D730218B50AB6EC63E7E2DC332B0458DCC",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-063.gz",
+      "DownloadSize": 1062,
+      "DownloadSha256": "E5A0220755DA4C3F42A791E619F16A14B59E32E43724D1CC8E9E8A66385E735D"
+    },
+    {
+      "Path": "GameData/Art/Statics/5538.art",
+      "Size": 2804,
+      "Sha256": "29D373977ADED56173430B54AC54B0345A861B36F946AF85A037335C940AB33A",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-018.gz",
+      "DownloadSize": 1013,
+      "DownloadSha256": "881676E7D4A83C4EB55967841351E6FC5C8EFA4F701B4FDDBDB4D7F81CB97CEA"
+    },
+    {
+      "Path": "GameData/Art/Statics/5539.art",
+      "Size": 2750,
+      "Sha256": "0BDC05D8D1A3CC204B34BD6BD5C35ED80C5308F41A089F4A78AB6C87822513FD",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-005.gz",
+      "DownloadSize": 965,
+      "DownloadSha256": "B0B2C2156590F2EA2CA5452D858E572DCF49D659F327612BBA444E554D84EA89"
+    },
+    {
+      "Path": "GameData/Art/Statics/5597.art",
+      "Size": 3264,
+      "Sha256": "EDF3BAC6672A36059B000A922ADBD00D09FCE0D23D4BAD778B099D8DE19F4D43",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-129.gz",
+      "DownloadSize": 1234,
+      "DownloadSha256": "6E4DDD314F61381B75E999A4BC02B03539DD36FD0AD36E2FFA735C46C378250C"
+    },
+    {
+      "Path": "GameData/Art/Statics/5649.art",
+      "Size": 2750,
+      "Sha256": "FCB539035463EE5C28160BC09A2DB436FB2E067B7AD7F73F4307B9803DB11D57",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-142.gz",
+      "DownloadSize": 988,
+      "DownloadSha256": "DDA66C2FD38D4D9DE1B1B5655B55E9A9215E80F994C0C85A18F7596282000503"
+    },
+    {
+      "Path": "GameData/Art/Statics/5650.art",
+      "Size": 2804,
+      "Sha256": "D874C0CD135F1A571A6486820B99F7795BE3C62BB2CFC7DA229D39D2092DB96A",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-117.gz",
+      "DownloadSize": 1004,
+      "DownloadSha256": "BADEECC1B11DCDFF88F90D96462C2E7FA7CA5A2ED4CC1976931EAAAAC29B055D"
+    },
+    {
+      "Path": "GameData/Art/Statics/5679.art",
+      "Size": 2954,
+      "Sha256": "9B2A4BBFF381AD2258E2FF339348B165878CA4C8A942230BD526B7B3E84AE265",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-081.gz",
+      "DownloadSize": 1191,
+      "DownloadSha256": "C6450D1ECC36D2841E1F2183D9C3C7FF833FAFA197F3F220035A67DD84D290F3"
+    },
+    {
+      "Path": "GameData/Art/Statics/5680.art",
+      "Size": 2832,
+      "Sha256": "48B9FBD03C275397D4A41098DB84B3EE19BC0761C00919ADC92559F9D439A0A4",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-039.gz",
+      "DownloadSize": 1114,
+      "DownloadSha256": "ACC7EECD17A13E650CE18CDD70D884D7D70FBDE02FFF63B7392B725FE9F03B8F"
+    },
+    {
+      "Path": "GameData/Art/Statics/5683.art",
+      "Size": 2998,
+      "Sha256": "08B7F1903A6E123C0204D4241CA5707BE88882372D190672D1339C116ED01E8C",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-003.gz",
+      "DownloadSize": 1183,
+      "DownloadSha256": "C02E2F4AE0EFB7B9A3D0EE10569717BCB7396126807D141055F1250A17201E74"
+    },
+    {
+      "Path": "GameData/Art/Statics/5979.art",
+      "Size": 3708,
+      "Sha256": "5A6C3A35F1DB4A6269A82791BE5E091A6B814B08CEDE2586491E1E0C0D3693F4",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-052.gz",
+      "DownloadSize": 1763,
+      "DownloadSha256": "75342A6CFF510E747C7F8148335C1E20C352E23E8B3B23BCEA90D3C32FD719CE"
+    },
+    {
+      "Path": "GameData/Art/Statics/6786.art",
+      "Size": 1384,
+      "Sha256": "F67EA4C8F69F2199644E55CFFF6DD410506968904BF8121D8AB863D059A897C8",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-138.gz",
+      "DownloadSize": 713,
+      "DownloadSha256": "234117EC3814863C00EE5789442B52A1D4FFBD3095B7DCB684A8FF50ACACABBC"
+    },
+    {
+      "Path": "GameData/Art/Statics/6787.art",
+      "Size": 3360,
+      "Sha256": "7BEBB1500AF310A7C6F00240BD082D1D517C9BABF6369AE81D141EAC3390C1C3",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-065.gz",
+      "DownloadSize": 2273,
+      "DownloadSha256": "E83A20AA25CBE0CAB566C2001CA84438508F5A5D4A18588602E3BB8318C9BE51"
+    },
+    {
+      "Path": "GameData/Art/Statics/6790.art",
+      "Size": 1276,
+      "Sha256": "37A2B3F5529A985B3D11C72B65857AE9B0827AA00DF0DB358D452E80A0A2BEEC",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-030.gz",
+      "DownloadSize": 861,
+      "DownloadSha256": "F954DA2D51D70FBA60B17F37B81DC4D6D4DD4F4677FF46CEAA9D232637E937B2"
+    },
+    {
+      "Path": "GameData/Art/Statics/7026.art",
+      "Size": 1604,
+      "Sha256": "E0EFBF34208D8297A3CF26AA54603C4EC0A2BE0A5886F04EBE6933A024068A94",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-122.gz",
+      "DownloadSize": 1266,
+      "DownloadSha256": "331C3FC8A29027F50E6D13D94ED863DC731C4AC844845BBDBB63A023A18B9CD8"
+    },
+    {
+      "Path": "GameData/Art/Statics/7031.art",
+      "Size": 1958,
+      "Sha256": "38366459C82E8098164892F7680E9D2093668B70242D01849AB9F79921861607",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-031.gz",
+      "DownloadSize": 1320,
+      "DownloadSha256": "B0CAF04E584866F36B1CCF48BD2A45B766D2437D95DF64EA5A73B0664689828E"
+    },
+    {
+      "Path": "GameData/Art/Statics/7107.art",
+      "Size": 1862,
+      "Sha256": "6299F6205144FE861C328B40F51E8D25365694B54722273D18046F753A2BC478",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-056.gz",
+      "DownloadSize": 1308,
+      "DownloadSha256": "575E21DE60C1BFBAE7E8094AE65B131C1A4DD0DCFBC6A7473DC86F43B0A52FE1"
+    },
+    {
+      "Path": "GameData/Art/Statics/757.art",
+      "Size": 6594,
+      "Sha256": "5F84CB8210052735229A0775EABD9AD5348E69B6E87080E62B56B3D4AE27D33A",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-055.gz",
+      "DownloadSize": 3612,
+      "DownloadSha256": "A21FB6A30D9852159909FFDD0EB1B7C9CAC49FC4F77FFAE39ED343392E5B3F6E"
+    },
+    {
+      "Path": "GameData/Art/Statics/759.art",
+      "Size": 7746,
+      "Sha256": "695EEB0F1486295917CA6B3B634E5F04AB1148306EED225F508B5EA83E2A9ADA",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-057.gz",
+      "DownloadSize": 4830,
+      "DownloadSha256": "2831A946EFCFF90C8745051CBA2DE8BF7D511B11C89483EF34AB55A4A64119D7"
+    },
+    {
+      "Path": "GameData/Art/Statics/760.art",
+      "Size": 8774,
+      "Sha256": "E5D5362F93E7FC970E0A35C4DAFE553F94AC4C1961DE8639697C2FB8E7A2D769",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-124.gz",
+      "DownloadSize": 4000,
+      "DownloadSha256": "3836C0117023EAFFCAE36D35D88D005212E1B0FC6C81CEACEEA5167B73E3D47D"
+    },
+    {
+      "Path": "GameData/Art/Statics/9146.art",
+      "Size": 5516,
+      "Sha256": "FC0E8EAF7029990459A957CD043F85B9E9A24E5A5AEEEBDED26B7AAD6D603230",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-141.gz",
+      "DownloadSize": 2520,
+      "DownloadSha256": "53757D786A92FB470983AFA746D83ABBDCF5C263E3F819A7ABD687C8CD96D506"
+    },
+    {
+      "Path": "GameData/Art/Statics/9149.art",
+      "Size": 5624,
+      "Sha256": "54731B697DE98BC5D21B55782CE45913497B850EC64A11997A5E6394EC0DDF4A",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-046.gz",
+      "DownloadSize": 2820,
+      "DownloadSha256": "8D249A7B53E2A7E1606918D77BF42FF6B38EAF641A3E1F96CE00DAE802720AF7"
+    },
+    {
+      "Path": "GameData/map1.mul",
+      "Size": 89915392,
+      "Sha256": "D274C310D0BB9CC1304127F833397BCB64FB668A4F90B239094B09A6179ACC9B",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-113.gz",
+      "DownloadSize": 16688050,
+      "DownloadSha256": "80576894658F35665066FDB5AE1DD707B2722E4DE366E11D283CCA03967EAE64"
+    },
+    {
+      "Path": "GameData/map1x.mul",
+      "Size": 89915392,
+      "Sha256": "182B565048559ED5525E29EE1E438C869C1E783A50A0521B67849451253D5C50",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-010.gz",
+      "DownloadSize": 16688115,
+      "DownloadSha256": "D7DA2022820BD1CD47E61F2566BBFF6D93C4A74880F893C649EC3B6F50EB4686"
     }
   ]
 }
