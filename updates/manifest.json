@@ -1,6 +1,6 @@
 {
   "SchemaVersion": 1,
-  "Version": "2026.10.9.28",
+  "Version": "2026.10.9.29",
   "Title": "Althea",
   "Files": [
     {
@@ -4877,19 +4877,19 @@
     },
     {
       "Path": "Launcher.exe",
-      "Size": 51709290,
-      "Sha256": "79680E01EDDFF782F30D8AE201D6F888CF99277A0C5E5DAA49967E156D3151AB",
-      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.28/launcher-fix-0.gz",
-      "DownloadSize": 46058611,
-      "DownloadSha256": "69EBB7A6D2B8D362898898635405B4EB0DC2373EAAB58DDE70600DCCEFFCF733"
+      "Size": 51710899,
+      "Sha256": "8DBC54714ED33D91330B8243E8BEC6A05B7E3ED0A58445E0BF33DD2A54982D45",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.29/launcher-patch-0.gz",
+      "DownloadSize": 46059944,
+      "DownloadSha256": "52E610870F8A52D95E6AA13AF7B8C2F4D1776F951A54BA7B6F5BC4F28F63086C"
     },
     {
       "Path": "client-version.txt",
       "Size": 12,
-      "Sha256": "78F22F97C034721D34E06801E5E210024A05B9B0681EE0529FB61871CFF0B79F",
-      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.28/launcher-fix-1.gz",
+      "Sha256": "EC34F59A3EC4C2BB204B1D1CADAF2AD3F465A50F54C22B7AA948AEA5F6739EDC",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.29/launcher-patch-1.gz",
       "DownloadSize": 32,
-      "DownloadSha256": "02FF7B63EA7500786C9E986B94251B242636919590260BE606DDB8CCB8955A65"
+      "DownloadSha256": "684BCA74F2FF1B15CBA7747F12D7B74D4F0B06DF7CEA8D3F706267708277DE0B"
     },
     {
       "Path": "Data/Alteria/login-music.mp3",
