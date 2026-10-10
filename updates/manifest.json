@@ -1,6 +1,6 @@
 {
   "SchemaVersion": 1,
-  "Version": "2026.10.10.1",
+  "Version": "2026.10.10.2",
   "Title": "Althea",
   "Files": [
     {
@@ -4877,19 +4877,19 @@
     },
     {
       "Path": "Launcher.exe",
-      "Size": 51710899,
-      "Sha256": "8DBC54714ED33D91330B8243E8BEC6A05B7E3ED0A58445E0BF33DD2A54982D45",
-      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.29/launcher-patch-0.gz",
-      "DownloadSize": 46059944,
-      "DownloadSha256": "52E610870F8A52D95E6AA13AF7B8C2F4D1776F951A54BA7B6F5BC4F28F63086C"
+      "Size": 116344968,
+      "Sha256": "846E6E2BFAFE507D948E64E6FCA4388AC5F586C729497999290BAD1E93B03E2B",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.10.2/846E6E2BFAFE507D948E64E6FCA4388AC5F586C729497999290BAD1E93B03E2B.gz",
+      "DownloadSize": 45915137,
+      "DownloadSha256": "ECBB4AD741473331BBA2E985DCDFC89FB02736856070ADDF5F3681F48C513BF8"
     },
     {
       "Path": "client-version.txt",
       "Size": 12,
-      "Sha256": "CEAFD9FE3E6DEFC9B7861507B0327131FF13ED8B14F913F26957908C8D5F497A",
-      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.10.1/CEAFD9FE3E6DEFC9B7861507B0327131FF13ED8B14F913F26957908C8D5F497A.gz",
-      "DownloadSize": 28,
-      "DownloadSha256": "9145968AD85DAEEA8B4F3111A9D147E42CD2F20EA2FF73ACE3598E0E918F04D4"
+      "Sha256": "5020F1DE8BF894922BBB980E0C98E19238FF2999E6524DF227997870768B6B11",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.10.2/5020F1DE8BF894922BBB980E0C98E19238FF2999E6524DF227997870768B6B11.gz",
+      "DownloadSize": 29,
+      "DownloadSha256": "2B7502E5303C52F8847C0677AAD44482AB547775D4586D3D11D52B3F52A1C2A3"
     },
     {
       "Path": "Data/Alteria/login-music.mp3",
@@ -4925,19 +4925,19 @@
     },
     {
       "Path": "Data/Gumps/2000.gump",
-      "Size": 188932,
-      "Sha256": "E6C5CE6F95F3C37C00EEC9EF02B0E1557CAAF962DD77D77DEEB16D42C1D1143B",
-      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.30/ui-038.gz",
-      "DownloadSize": 57948,
-      "DownloadSha256": "49B8913F30C2C297B893FD6BB4A956FA225CCFE5DE1EF307779EDCE1C02BC09F"
+      "Size": 152924,
+      "Sha256": "FEAC3150AB8E35D7A2C4FA13DF428A1CE85F8CADE78DA6B7B07416A0F35A3234",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.10.2/FEAC3150AB8E35D7A2C4FA13DF428A1CE85F8CADE78DA6B7B07416A0F35A3234.gz",
+      "DownloadSize": 50008,
+      "DownloadSha256": "260CE5B9D15986268BA5853C0130CE78C9B92CB5B883629C52D3BF856583B5F6"
     },
     {
       "Path": "Data/Gumps/2001.gump",
-      "Size": 188932,
-      "Sha256": "E6C5CE6F95F3C37C00EEC9EF02B0E1557CAAF962DD77D77DEEB16D42C1D1143B",
-      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.30/ui-038.gz",
-      "DownloadSize": 57948,
-      "DownloadSha256": "49B8913F30C2C297B893FD6BB4A956FA225CCFE5DE1EF307779EDCE1C02BC09F"
+      "Size": 152924,
+      "Sha256": "FEAC3150AB8E35D7A2C4FA13DF428A1CE85F8CADE78DA6B7B07416A0F35A3234",
+      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.10.2/FEAC3150AB8E35D7A2C4FA13DF428A1CE85F8CADE78DA6B7B07416A0F35A3234.gz",
+      "DownloadSize": 50008,
+      "DownloadSha256": "260CE5B9D15986268BA5853C0130CE78C9B92CB5B883629C52D3BF856583B5F6"
     },
     {
       "Path": "Data/Gumps/2002.gump",
