@@ -17,7 +17,7 @@
     const controller = new AbortController();
     const timeout = setTimeout(() => controller.abort(), 6000);
     try {
-      const response = await fetch('https://alteriashard.netlify.app/.netlify/functions/shard-status', { cache: 'no-store', signal: controller.signal });
+      const response = await fetch('https://status.altheashard.it/status', { cache: 'no-store', signal: controller.signal });
       if (!response.ok) throw new Error('Status unavailable');
       render(await response.json());
     } catch { render({ status: 'unknown' }); }
