@@ -1,6 +1,6 @@
 {
   "SchemaVersion": 1,
-  "Version": "2026.10.12.4",
+  "Version": "2026.10.12.5",
   "Title": "Althea",
   "Files": [
     {
@@ -4869,11 +4869,11 @@
     },
     {
       "Path": "cuo.exe",
-      "Size": 16205824,
-      "Sha256": "B8A4995505CF3D0D6DEF0777CD718CB8848BF8EE0623E1864D3694F6252BC616",
-      "Url": "https://status.altheashard.it/updates/decorator-lock-20261012/B8A4995505CF3D0D6DEF0777CD718CB8848BF8EE0623E1864D3694F6252BC616.gz",
-      "DownloadSize": 7397938,
-      "DownloadSha256": "3F7C7DE744C37F7B56BFE9D0338C6C4090FF64F4FF2BDB61AE5DFF382035CAE3"
+      "Size": 16219136,
+      "Sha256": "D91A2A795DD5AA32A1DF2AD798DC4440C7D826E2FF5BB57B99C0CA0432FA686F",
+      "Url": "https://status.altheashard.it/updates/traveller-lantern-20261012/D91A2A795DD5AA32A1DF2AD798DC4440C7D826E2FF5BB57B99C0CA0432FA686F.gz",
+      "DownloadSize": 7406478,
+      "DownloadSha256": "84A6C9F2101CF0E4F1DFC6AFA34A77198C0B09720B83F9B12049656ADD36D08D"
     },
     {
       "Path": "Launcher.exe",
@@ -4886,10 +4886,10 @@
     {
       "Path": "client-version.txt",
       "Size": 12,
-      "Sha256": "1C33E9B38EDF376E6A73AAB4C8DE3225150D5459B61DB95EBC6F197CD676010F",
-      "Url": "https://status.altheashard.it/updates/decorator-lock-20261012/1C33E9B38EDF376E6A73AAB4C8DE3225150D5459B61DB95EBC6F197CD676010F.gz",
+      "Sha256": "34FD891F8161BFDEF94F669D481F6EF13643F52C17FC1932E000621D0F2E659B",
+      "Url": "https://status.altheashard.it/updates/traveller-lantern-20261012/34FD891F8161BFDEF94F669D481F6EF13643F52C17FC1932E000621D0F2E659B.gz",
       "DownloadSize": 32,
-      "DownloadSha256": "B6C8EE2360C509CB987BA12A8FA141DFDA4A05E56D311303D31D9EC258A29EA5"
+      "DownloadSha256": "4CC04ADF0BBC834456530AB8FE184A1C26AFC26C850C5A18E6D3F30A0A321207"
     },
     {
       "Path": "Data/Alteria/login-music.mp3",
@@ -6154,6 +6154,14 @@
       "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.30/ui-034.gz",
       "DownloadSize": 1139,
       "DownloadSha256": "5B44796D74F10CF37DCD6574D3B2C6CAC02922EDF6F978715B48788EC09B5130"
+    },
+    {
+      "Path": "Data/CustomItems/traveller-lantern.png",
+      "Size": 1157848,
+      "Sha256": "3A25DA2C1174061356B9563D80C1DCCFF9CDE0A3184B3F51A97B8BBBAC1B6C2B",
+      "Url": "https://status.altheashard.it/updates/traveller-lantern-20261012/3A25DA2C1174061356B9563D80C1DCCFF9CDE0A3184B3F51A97B8BBBAC1B6C2B.gz",
+      "DownloadSize": 1144864,
+      "DownloadSha256": "8908B4DAB982B2AD4484BCAC1AF86FC614556036B12CD97C4EFA95C59C2A840A"
     }
   ]
 }
