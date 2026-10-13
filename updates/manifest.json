@@ -1,6 +1,6 @@
 {
   "SchemaVersion": 1,
-  "Version": "2026.10.12.5",
+  "Version": "2026.10.13.1",
   "Title": "Althea",
   "Files": [
     {
@@ -1630,10 +1630,10 @@
     {
       "Path": "GameData/hues.mul",
       "Size": 265500,
-      "Sha256": "5A4A7001EB7200E0DFA080897BABF64DC17B8EC2196034709317FA6C2AD79C2A",
-      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-050.gz",
-      "DownloadSize": 96340,
-      "DownloadSha256": "79F086E13F3B86C48997E142883AC28BD2DB4A325B6C5FD4C45ED13C650C6F6D"
+      "Sha256": "773624F49742ECB6470A1EEF141B0A2705B7F82CF8BDFB1E3839FF8C0AAAFA09",
+      "Url": "https://status.altheashard.it/updates/mystic-preview-20261013/773624F49742ECB6470A1EEF141B0A2705B7F82CF8BDFB1E3839FF8C0AAAFA09.gz",
+      "DownloadSize": 105684,
+      "DownloadSha256": "29185DE3DB2576D9E7B1C78E73F9996CB5E13C4C91513FDEBEC0D0F213599CCE"
     },
     {
       "Path": "GameData/ignore.lst",
@@ -4869,11 +4869,11 @@
     },
     {
       "Path": "cuo.exe",
-      "Size": 16219136,
-      "Sha256": "D91A2A795DD5AA32A1DF2AD798DC4440C7D826E2FF5BB57B99C0CA0432FA686F",
-      "Url": "https://status.altheashard.it/updates/traveller-lantern-20261012/D91A2A795DD5AA32A1DF2AD798DC4440C7D826E2FF5BB57B99C0CA0432FA686F.gz",
-      "DownloadSize": 7406478,
-      "DownloadSha256": "84A6C9F2101CF0E4F1DFC6AFA34A77198C0B09720B83F9B12049656ADD36D08D"
+      "Size": 16242688,
+      "Sha256": "E870A461065E4210FA516DAA42665B14EDEB8C2DEB93B4DCA75A96874734135E",
+      "Url": "https://status.altheashard.it/updates/mystic-preview-20261013/E870A461065E4210FA516DAA42665B14EDEB8C2DEB93B4DCA75A96874734135E.gz",
+      "DownloadSize": 7420296,
+      "DownloadSha256": "661B4383750E7B79AC8984106C463E452B9D69929FBF08A1764979D6B0DB8BE2"
     },
     {
       "Path": "Launcher.exe",
@@ -4886,10 +4886,10 @@
     {
       "Path": "client-version.txt",
       "Size": 12,
-      "Sha256": "34FD891F8161BFDEF94F669D481F6EF13643F52C17FC1932E000621D0F2E659B",
-      "Url": "https://status.altheashard.it/updates/traveller-lantern-20261012/34FD891F8161BFDEF94F669D481F6EF13643F52C17FC1932E000621D0F2E659B.gz",
+      "Sha256": "490B7EB2D305606CDA4F4FD27911683B0418696CA189EA7BF2CE77DA576E0F8D",
+      "Url": "https://status.altheashard.it/updates/mystic-preview-20261013/490B7EB2D305606CDA4F4FD27911683B0418696CA189EA7BF2CE77DA576E0F8D.gz",
       "DownloadSize": 32,
-      "DownloadSha256": "4CC04ADF0BBC834456530AB8FE184A1C26AFC26C850C5A18E6D3F30A0A321207"
+      "DownloadSha256": "01E1787CF4521C87D4476D4F2E7189AAECE45684BDF66374EC30FE07C9D4826A"
     },
     {
       "Path": "Data/Alteria/login-music.mp3",
@@ -4902,10 +4902,10 @@
     {
       "Path": "Data/Fonts/readable-hues.mul",
       "Size": 265564,
-      "Sha256": "A5947AFD36F902BB3F09A596B799ED6AB5358CEEB2522C10101741FC0007A97E",
-      "Url": "https://github.com/hypercube81/alteria/releases/download/launcher-v2026.10.9.27/althea-088.gz",
-      "DownloadSize": 96377,
-      "DownloadSha256": "DC6EA9DE09B3FF5010F0DE02D74633854C8EC9D806949683BAD474F218F0FE4F"
+      "Sha256": "6137AAC3A631006BD5078B4FC963AA35B2DB0DA7FDA5A51BB3DE61797B3F9CB2",
+      "Url": "https://status.altheashard.it/updates/mystic-preview-20261013/6137AAC3A631006BD5078B4FC963AA35B2DB0DA7FDA5A51BB3DE61797B3F9CB2.gz",
+      "DownloadSize": 105728,
+      "DownloadSha256": "E9CB5721B06FB17270C19BDDAF551A52F465BDAEAB8860AE76D05A0E923066C4"
     },
     {
       "Path": "Data/Fonts/zhi-ui-fonts.mul",
