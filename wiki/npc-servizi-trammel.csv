@@ -1,0 +1,340 @@
+Professione,Zona,Nome,X,Y,Z,Mappa
+Alchemist,Cove,Spica,2213,1194,0,Trammel
+Alchemist,Britain,Qamra,1403,1711,20,Trammel
+Alchemist,Britain,Ferris,1618,1560,30,Trammel
+Alchemist,Camelot,Chelsea,2612,114,0,Trammel
+Alchemist,Radek,Lenor,806,1857,0,Trammel
+Alchemist,Delucia,Jethro,5199,4056,37,Trammel
+Alchemist,Fear Keep,Asha,5637,1594,0,Trammel
+Alchemist,Jhelom,Zehava,1377,3743,0,Trammel
+Alchemist,Magincia,Dana,3669,2215,20,Trammel
+Alchemist,Minoc,Shelly,2434,408,15,Trammel
+Alchemist,Moonglow,Chale,4454,1078,0,Trammel
+Alchemist,Moonglow,Ellery,4622,1204,0,Trammel
+Alchemist,Nujelm,Sari,3771,1166,0,Trammel
+Alchemist,Serpent's Hold,Alita,3001,3380,15,Trammel
+Alchemist,Wind,Creighton,5295,34,40,Trammel
+Alchemist,Yew,Earl,620,977,0,Trammel
+Alchemist,Northgard,Carling,4096,533,0,Trammel
+AnimalTrainer,Britain,Sorgan,1362,1797,0,Trammel
+AnimalTrainer,Britain,Shandy,1375,1685,30,Trammel
+AnimalTrainer,Camelot,Xavier,2495,118,0,Trammel
+AnimalTrainer,Camelot,Chesna,2687,107,0,Trammel
+AnimalTrainer,Radek,Ellery,734,1905,0,Trammel
+AnimalTrainer,Cove,Pavla,2259,1219,0,Trammel
+AnimalTrainer,Delucia,Herschel,5292,3999,40,Trammel
+AnimalTrainer,Fear Keep,Noriko,5720,1590,0,Trammel
+AnimalTrainer,Magincia,Roland,3667,2202,20,Trammel
+AnimalTrainer,Minoc,Kaula,2585,630,0,Trammel
+AnimalTrainer,Moonglow,Velma,4450,1153,0,Trammel
+AnimalTrainer,Nujelm,Bent,3763,1291,0,Trammel
+AnimalTrainer,Serpent's Hold,Laurinda,3035,3466,15,Trammel
+AnimalTrainer,Wind,Seth,5276,116,20,Trammel
+AnimalTrainer,Wind,Velma,5233,34,15,Trammel
+AnimalTrainer,Yew,Clayton,668,943,0,Trammel
+AnimalTrainer,Yew,Bersh,679,1036,0,Trammel
+AnimalTrainer,Northgard,Adelia,4017,535,1,Trammel
+Baker,Cove,Danyelle,2232,1182,0,Trammel
+Baker,Cove,Leroy,2233,1154,0,Trammel
+Baker,Britain,Shawn,1645,1552,20,Trammel
+Baker,Britain,Shantay,1572,1633,6,Trammel
+Baker,Camelot,Flint,2584,95,0,Trammel
+Baker,Delucia,Hyacinth,5213,4015,37,Trammel
+Baker,Minoc,Dede,2576,585,0,Trammel
+Baker,Moonglow,Brieg,4385,1067,0,Trammel
+Baker,Nujelm,Julian,3741,1260,0,Trammel
+Baker,Serpent's Hold,Amadi,2969,3430,15,Trammel
+Baker,Yew,Sherri,553,991,0,Trammel
+HairStylist,Northgard,Balin,4052,519,0,Trammel
+HairStylist,Britain,Solange,1646,1539,20,Trammel
+HairStylist,Camelot,Ashlin,2573,81,0,Trammel
+HairStylist,Cove,Arminda,2238,1203,0,Trammel
+HairStylist,Britain,Arlen,1400,1648,30,Trammel
+HairStylist,Radek,Rayna,871,1841,0,Trammel
+HairStylist,Radek,Dinah,871,1822,0,Trammel
+HairStylist,Magincia,Lukene,3666,2193,20,Trammel
+HairStylist,Wind,Damen,5284,86,17,Trammel
+HairStylist,Yew,Erwand,516,980,0,Trammel
+HairStylist,Fear Keep,Beryl,5633,1603,0,Trammel
+HairStylist,Nujelm,Isabel,3657,1190,0,Trammel
+Bard,Cove,Radcliffe,2236,1173,0,Trammel
+Bard,Britain,Killian,1630,1555,25,Trammel
+Bard,Britain,Aidan,1631,1553,27,Trammel
+Bard,Camelot,Horton,2567,76,0,Trammel
+Bard,Radek,Jagger,877,1824,0,Trammel
+Bard,Magincia,Philip,3688,2210,20,Trammel
+Bard,Magincia,Ellery,3683,2253,20,Trammel
+Bard,Minoc,Wyatt,2453,522,15,Trammel
+Bard,Moonglow,Ricardo,4403,1154,0,Trammel
+Bard,Serpent's Hold,Markham,3036,3424,15,Trammel
+Beekeeper,Delucia,Rankin,5281,4023,37,Trammel
+Beekeeper,Moonglow,Blanche,4393,1138,0,Trammel
+Beekeeper,Nujelm,Levi,3770,1291,0,Trammel
+Beekeeper,Serpent's Hold,Alben,3027,3449,15,Trammel
+Beekeeper,Yew,Vevila,557,991,0,Trammel
+Blacksmith,Northgard,Alida,4107,508,0,Trammel
+Blacksmith,Britain,Ranen,1389,1646,30,Trammel
+Blacksmith,Camelot,Shawn,2614,99,0,Trammel
+Blacksmith,Radek,Isabella,741,1856,0,Trammel
+Blacksmith,Fear Keep,Shika,5671,1547,0,Trammel
+Blacksmith,Jhelom,Lara,1377,3735,20,Trammel
+Blacksmith,Magincia,Pearce,3657,2198,20,Trammel
+Blacksmith,Minoc,Nori,2422,468,15,Trammel
+Blacksmith,Moonglow,Nicole,4441,1156,0,Trammel
+Blacksmith,Nujelm,Kiele,3684,1187,0,Trammel
+Blacksmith,Serpent's Hold,Leah,3014,3432,15,Trammel
+Blacksmith,Wind,Cynric,5262,159,15,Trammel
+Blacksmith,Yew,Tucker,561,963,0,Trammel
+Bowyer,Cove,Casey,2240,1198,0,Trammel
+Bowyer,Britain,Landra,1385,1646,30,Trammel
+Bowyer,Britain,Selma,1635,1557,25,Trammel
+Bowyer,Camelot,Kasia,2613,103,0,Trammel
+Bowyer,Delucia,Taro,5295,3975,37,Trammel
+Bowyer,Fear Keep,Dyastro,5679,1548,0,Trammel
+Bowyer,Jhelom,Elston,1379,3732,0,Trammel
+Bowyer,Magincia,Holt,3665,2178,20,Trammel
+Bowyer,Minoc,Andries,2427,498,15,Trammel
+Bowyer,Moonglow,Clover,4411,1092,0,Trammel
+Bowyer,Nujelm,Catherine,3729,1255,0,Trammel
+Bowyer,Serpent's Hold,Drucilla,3008,3434,15,Trammel
+Bowyer,Wind,Marcos,5312,51,35,Trammel
+Bowyer,Yew,Avie,566,966,0,Trammel
+Bowyer,Northgard,Evonne,4047,501,0,Trammel
+Butcher,Britain,Kichi,1378,1619,30,Trammel
+Butcher,Britain,Denton,1641,1554,25,Trammel
+Butcher,Camelot,Duane,2564,80,0,Trammel
+Butcher,Radek,Shawn,741,1888,0,Trammel
+Butcher,Delucia,Kesi,5214,4009,37,Trammel
+Butcher,Fear Keep,Belora,5650,1606,0,Trammel
+Butcher,Magincia,Zelenka,3667,2255,20,Trammel
+Butcher,Moonglow,Woody,4393,1134,0,Trammel
+Butcher,Nujelm,Olga,3698,1182,0,Trammel
+Butcher,Serpent's Hold,Gilda,2969,3422,15,Trammel
+Butcher,Yew,Armstrong,533,1011,0,Trammel
+Butcher,Northgard,Shako,4065,576,0,Trammel
+Carpenter,Cove,Ara,2240,1192,0,Trammel
+Carpenter,Britain,Emalia,1389,1649,30,Trammel
+Carpenter,Britain,Smith,1634,1561,25,Trammel
+Carpenter,Camelot,Fayina,2569,67,0,Trammel
+Carpenter,Delucia,Sashenka,5283,3981,37,Trammel
+Carpenter,Fear Keep,Silvia,5671,1550,0,Trammel
+Carpenter,Jhelom,Marlon,1381,3734,0,Trammel
+Carpenter,Magincia,Darren,3654,2176,20,Trammel
+Carpenter,Minoc,Burl,2426,484,15,Trammel
+Carpenter,Moonglow,Ximen,4415,1085,0,Trammel
+Carpenter,Nujelm,Crandall,3735,1249,20,Trammel
+Carpenter,Serpent's Hold,Ayasha,3012,3427,15,Trammel
+Carpenter,Wind,Peony,5313,48,30,Trammel
+Carpenter,Yew,Aponi,566,1013,0,Trammel
+Carpenter,Northgard,Sharon,4056,495,0,Trammel
+Tinker,Cove,Ian,2240,1193,0,Trammel
+Tinker,Britain,Melanie,1392,1641,30,Trammel
+Tinker,Britain,Bertram,1598,1516,40,Trammel
+Tinker,Delucia,Martin,5284,3981,37,Trammel
+Tinker,Fear Keep,Kenelm,5672,1553,0,Trammel
+Tinker,Minoc,Dita,2424,470,15,Trammel
+Tinker,Moonglow,Seymour,4440,1161,0,Trammel
+Tinker,Nujelm,Estelle,3734,1255,0,Trammel
+Tinker,Nujelm,Lander,3682,1188,0,Trammel
+Tinker,Serpent's Hold,Barton,3017,3427,15,Trammel
+Tinker,Wind,Winston,5265,152,15,Trammel
+Tinker,Northgard,Nevan,4113,503,0,Trammel
+Tinker,Camelot,Saffi,2630,40,38,Trammel
+Farmer,Cove,Adelia,2260,1227,0,Trammel
+Farmer,Britain,Namazzi,1365,1614,50,Trammel
+Farmer,Radek,Devaki,776,1965,0,Trammel
+Farmer,Delucia,Weston,5267,4013,40,Trammel
+Farmer,Fear Keep,Karisa,5728,1589,0,Trammel
+Farmer,Minoc,Kane,2566,590,0,Trammel
+Farmer,Moonglow,Tahirah,4387,1139,0,Trammel
+Farmer,Nujelm,Balder,3762,1298,0,Trammel
+Farmer,Serpent's Hold,Armen,3033,3471,15,Trammel
+Farmer,Yew,Fabienne,573,977,0,Trammel
+Farmer,Yew,Ajara,680,1008,0,Trammel
+Farmer,Northgard,Regina,4024,531,0,Trammel
+Farmer,Trinsic,Latika,1778,3323,0,Trammel
+Farmer,Magincia,Rory,3731,2244,20,Trammel
+Farmer,Britain,Amadi,1597,1588,20,Trammel
+Farmer,Trinsic,Meda,2068,3344,0,Trammel
+Farmer,Moonglow,Valerie,4567,1464,1,Trammel
+Fisherman,Cove,Jin,2248,1185,-2,Trammel
+Fisherman,Britain,Homes,1484,1769,-2,Trammel
+Fisherman,Britain,Kalila,1380,1614,30,Trammel
+Fisherman,Britain,Zared,1644,1551,20,Trammel
+Fisherman,Camelot,Dwight,2665,159,0,Trammel
+Fisherman,Radek,Bevin,691,1820,0,Trammel
+Fisherman,Delucia,Thurston,5213,3749,0,Trammel
+Fisherman,Moonglow,Delano,4413,1066,0,Trammel
+Fisherman,Nujelm,Kiran,3803,1281,6,Trammel
+Fisherman,Serpent's Hold,Hadden,2970,3418,15,Trammel
+Fisherman,Wind,Kevin,5265,46,15,Trammel
+Fisherman,Northgard,Medea,4041,643,-1,Trammel
+Gardener,Britain,Horton,1368,1605,30,Trammel
+Gardener,Britain,Xaviera,1636,1540,22,Trammel
+Gardener,Camelot,Kerby,2661,150,0,Trammel
+Gardener,Radek,Huntley,816,1961,0,Trammel
+Gardener,Minoc,Amado,2563,598,0,Trammel
+Gardener,Moonglow,Kardal,4388,1143,0,Trammel
+Gardener,Nujelm,Vito,3770,1300,0,Trammel
+Gardener,Nujelm,Amandine,3712,1214,0,Trammel
+Gardener,Yew,Voleta,534,989,0,Trammel
+Healer,Yew,Cala,541,994,0,Trammel
+Healer,Skara Brae,Dempster,576,2214,0,Trammel
+Healer,Yew,Endora,622,1015,0,Trammel
+EvilHealer,Skara Brae,Bian,635,2230,0,Trammel
+Healer,Yew,Collin,746,763,0,Trammel
+Healer,Radek,Treasa,747,1874,0,Trammel
+Healer,Radek,Shobi,850,1912,0,Trammel
+Healer,Radek,Yachne,918,1928,0,Trammel
+Healer,Jhelom,Avella,1148,3594,0,Trammel
+Healer,Jhelom,Belen,1141,3636,0,Trammel
+Healer,Britain,Tanaka,1197,1880,0,Trammel
+Healer,Britain,Belina,1333,2025,0,Trammel
+Healer,Britain,Jacinthe,1423,1710,19,Trammel
+Healer,Jhelom,Martin,1466,3836,0,Trammel
+Healer,Britain,Quillan,1474,1470,0,Trammel
+Healer,Britain,Maxwell,1472,1648,12,Trammel
+Healer,Britain,Casper,1590,1514,40,Trammel
+Healer,Britain,Andras,1537,1670,20,Trammel
+Healer,Trinsic,Trish,1582,2457,5,Trammel
+Healer,Britain,Yokiko,1656,1604,20,Trammel
+Healer,Trinsic,Sadira,1823,2961,-25,Trammel
+Healer,Trinsic,Evadine,1907,2827,10,Trammel
+Healer,Trinsic,Onida,2094,3359,0,Trammel
+Healer,Minoc,Andries,2198,745,0,Trammel
+Healer,Camelot,Lucine,2493,131,0,Trammel
+Healer,Camelot,Judith,2621,122,0,Trammel
+Healer,Vesper,Emo,2685,677,0,Trammel
+Healer,Vesper,Raquel,2790,851,0,Trammel
+Healer,Vesper,Andrew,2858,890,0,Trammel
+Healer,Serpent's Hold,Monique,3039,3384,15,Trammel
+Healer,Nujelm,Ashon,3538,1168,10,Trammel
+Healer,Occlo,Cytheria,3647,2517,0,Trammel
+Healer,Nujelm,Lamont,3695,1148,0,Trammel
+Healer,Magincia,Isobel,3719,2066,5,Trammel
+Healer,Magincia,Kaveri,3740,2236,20,Trammel
+Healer,Nujelm,Russ,3798,1190,0,Trammel
+Healer,Northgard,Magan,4039,519,0,Trammel
+Healer,Moonglow,Robyn,4472,1103,0,Trammel
+Healer,Moonglow,Caimile,4447,1268,0,Trammel
+Healer,Moonglow,Carina,4555,889,20,Trammel
+Healer,Delucia,Anica,5173,4055,37,Trammel
+Healer,Delucia,Hector,5244,3681,-1,Trammel
+Healer,Delucia,Botan,5189,3990,37,Trammel
+Healer,Delucia,Trevor,5274,3399,-2,Trammel
+Healer,Delucia,Syeira,5260,3991,37,Trammel
+Healer,Delucia,Halden,5542,3681,-1,Trammel
+Healer,Delucia,Braxton,5715,3186,-1,Trammel
+Healer,Delucia,Kaethe,5845,3641,0,Trammel
+EvilHealer,Britain,Kama,1331,1449,9,Trammel
+EvilHealer,Cove,Kalman,2254,1211,0,Trammel
+EvilHealer,Buccaneer's Den,Aren,2645,2102,6,Trammel
+EvilHealer,Buccaneer's Den,Dilys,2746,2236,0,Trammel
+EvilHealer,Buccaneer's Den,Alek,2703,2233,0,Trammel
+EvilHealer,Wind,Emmett,5306,126,15,Trammel
+EvilHealer,Wind,Khoury,5401,311,0,Trammel
+EvilHealer,Fear Keep,Bran,5440,2074,0,Trammel
+EvilHealer,Delucia,Golda,6064,3883,2,Trammel
+InnKeeper,Britain,Ranard,1664,1703,7,Trammel
+InnKeeper,Minoc,Jaimie,2527,619,0,Trammel
+InnKeeper,Serpent's Hold,Ophelia,2969,3407,15,Trammel
+InnKeeper,Yew,Perry,635,1042,0,Trammel
+InnKeeper,Northgard,Silas,4058,554,5,Trammel
+Jeweler,Britain,Kaye,1400,1659,30,Trammel
+Jeweler,Fear Keep,Niobe,5678,1569,0,Trammel
+Jeweler,Minoc,Braden,2438,522,0,Trammel
+Jeweler,Moonglow,Katherine,4465,1162,0,Trammel
+Jeweler,Nujelm,Canute,3779,1235,0,Trammel
+Jeweler,Nujelm,Erek,3660,1188,0,Trammel
+Jeweler,Wind,Dalilia,5298,110,15,Trammel
+Jeweler,Northgard,Anteia,4059,514,0,Trammel
+Mage,Cove,Dante,2210,1186,0,Trammel
+Mage,Britain,Hiroshi,1411,1714,20,Trammel
+Mage,Camelot,Ambis,2607,111,0,Trammel
+Mage,Radek,Bae,803,1852,0,Trammel
+Mage,Delucia,Bowman,5193,4059,37,Trammel
+Mage,Fear Keep,Uriana,5633,1598,0,Trammel
+Mage,Jhelom,Earle,1376,3737,12,Trammel
+Mage,Magincia,Barth,3663,2231,20,Trammel
+Mage,Minoc,Ema,2438,408,15,Trammel
+Mage,Moonglow,Sterling,4448,1090,0,Trammel
+Mage,Moonglow,Zachary,4623,1203,0,Trammel
+Mage,Nujelm,Freda,3770,1161,0,Trammel
+Mage,Serpent's Hold,Baran,3011,3387,15,Trammel
+Mage,Wind,Ilias,5297,28,40,Trammel
+Mage,Yew,Cressida,610,978,0,Trammel
+Mage,Northgard,Sherwin,4100,534,0,Trammel
+Mapmaker,Cove,Sharon,2242,1190,0,Trammel
+Mapmaker,Britain,Antonio,1376,1616,30,Trammel
+Mapmaker,Radek,Meara,686,1831,0,Trammel
+Mapmaker,Magincia,Lala,3683,2256,20,Trammel
+Mapmaker,Moonglow,Palmer,4473,1159,0,Trammel
+Mapmaker,Serpent's Hold,Norma,3038,3428,15,Trammel
+Mapmaker,Serpent's Hold,Asha,3019,3466,16,Trammel
+Mapmaker,Northgard,Orrin,4044,644,-1,Trammel
+Miner,Delucia,Rosalinde,5223,4003,37,Trammel
+Miner,Magincia,Sibongile,3661,2192,20,Trammel
+Provisioner,Moonglow,Rudyard,4411,1061,0,Trammel
+Provisioner,Yew,Lars,530,1011,0,Trammel
+Scribe,Cove,Otto,2216,1193,0,Trammel
+Scribe,Britain,Balder,1402,1720,20,Trammel
+Scribe,Britain,Lisette,1625,1558,30,Trammel
+Scribe,Camelot,Orson,2609,115,0,Trammel
+Scribe,Radek,Enrique,814,1852,0,Trammel
+Scribe,Delucia,Buck,5198,4066,37,Trammel
+Scribe,Fear Keep,Farley,5637,1596,0,Trammel
+Scribe,Magincia,Kay,3664,2223,20,Trammel
+Scribe,Minoc,Guthrie,2442,419,15,Trammel
+Scribe,Moonglow,Veronica,4461,1090,0,Trammel
+Scribe,Moonglow,Brewster,4627,1212,0,Trammel
+Scribe,Nujelm,Kennard,3779,1160,0,Trammel
+Scribe,Serpent's Hold,Amadi,3004,3381,15,Trammel
+Scribe,Wind,Meg,5300,34,40,Trammel
+Scribe,Yew,Ebony,615,977,0,Trammel
+Scribe,Northgard,Bakarne,4105,532,0,Trammel
+Shipwright,Cove,Bennett,2254,1180,-2,Trammel
+Shipwright,Magincia,Drew,3675,2288,-2,Trammel
+Shipwright,Moonglow,Ryba,4417,1026,-2,Trammel
+Shipwright,Nujelm,Elina,3804,1274,6,Trammel
+Shipwright,Serpent's Hold,Meka,2937,3413,1,Trammel
+Tailor,Cove,Sharon,2223,1172,0,Trammel
+Tailor,Britain,Heidi,1378,1627,32,Trammel
+Tailor,Camelot,Bradney,2576,75,0,Trammel
+Tailor,Radek,Tate,874,1840,0,Trammel
+Tailor,Delucia,Timandra,5235,4014,37,Trammel
+Tailor,Fear Keep,Sheffield,5637,1607,0,Trammel
+Tailor,Magincia,Sitembile,3656,2191,40,Trammel
+Tailor,Minoc,Mikos,2541,599,0,Trammel
+Tailor,Nujelm,Pilan,3762,1310,0,Trammel
+Tailor,Serpent's Hold,Dorinda,2994,3427,15,Trammel
+Tailor,Wind,Ariana,5284,80,15,Trammel
+Tailor,Yew,Uma,518,989,0,Trammel
+Tailor,Yew,Ben,512,987,0,Trammel
+Tailor,Northgard,Azha,4088,515,0,Trammel
+Tanner,Britain,Lars,1371,1628,50,Trammel
+Tanner,Britain,Pascal,1628,1556,30,Trammel
+Tanner,Camelot,Jerolin,2563,78,0,Trammel
+Tanner,Delucia,Rodrigo,5232,4024,37,Trammel
+Tanner,Fear Keep,Kira,5635,1609,0,Trammel
+Tanner,Magincia,Saxon,3658,2191,20,Trammel
+Tanner,Minoc,Byran,2543,589,0,Trammel
+Tanner,Nujelm,Lee,3762,1322,0,Trammel
+Tanner,Serpent's Hold,Landra,2996,3433,15,Trammel
+Tanner,Wind,Galina,5284,84,17,Trammel
+Tanner,Yew,Godfrey,514,991,0,Trammel
+Tanner,Northgard,Ringo,4086,510,0,Trammel
+Waiter,Cove,Dirk,2215,1167,0,Trammel
+Waiter,Britain,Afrika,1375,1602,30,Trammel
+Waiter,Britain,Ruskin,1656,1707,15,Trammel
+Waiter,Camelot,Penda,2580,107,0,Trammel
+Waiter,Radek,Malka,726,1886,0,Trammel
+Waiter,Radek,Delmore,718,1884,0,Trammel
+Waiter,Delucia,Nicolette,5207,4039,40,Trammel
+Waiter,Minoc,Lari,2517,596,0,Trammel
+Waiter,Moonglow,Yasmin,4398,1161,0,Trammel
+Waiter,Nujelm,Octavia,3771,1230,0,Trammel
+Waiter,Serpent's Hold,Denby,2962,3407,15,Trammel
+Waiter,Wind,Dora,5303,76,27,Trammel
+Waiter,Yew,Chin,538,1012,0,Trammel
+Waiter,Northgard,Marden,4049,555,5,Trammel
+Waiter,Northgard,York,4066,544,0,Trammel
